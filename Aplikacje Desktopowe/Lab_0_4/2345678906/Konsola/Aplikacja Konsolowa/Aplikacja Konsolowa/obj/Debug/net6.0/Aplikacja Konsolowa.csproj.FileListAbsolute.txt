@@ -1,0 +1,15 @@
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\bin\Debug\net6.0\Aplikacja Konsolowa.exe
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\bin\Debug\net6.0\Aplikacja Konsolowa.deps.json
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\bin\Debug\net6.0\Aplikacja Konsolowa.runtimeconfig.json
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\bin\Debug\net6.0\Aplikacja Konsolowa.dll
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\bin\Debug\net6.0\Aplikacja Konsolowa.pdb
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\Aplikacja Konsolowa.csproj.AssemblyReference.cache
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\Aplikacja Konsolowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\Aplikacja Konsolowa.AssemblyInfoInputs.cache
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\Aplikacja Konsolowa.AssemblyInfo.cs
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\Aplikacja Konsolowa.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\Aplikacja Konsolowa.dll
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\refint\Aplikacja Konsolowa.dll
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\Aplikacja Konsolowa.pdb
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\Aplikacja Konsolowa.genruntimeconfig.cache
+C:\Users\Użytkownik\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Lab_0_4\2345678906\Konsola\Aplikacja Konsolowa\Aplikacja Konsolowa\obj\Debug\net6.0\ref\Aplikacja Konsolowa.dll
