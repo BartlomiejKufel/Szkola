@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NewControls.MainPage">
+
+    <StackLayout VerticalOptions="Center"
+                 Margin="20, 1">
+        <StackLayout Orientation="Horizontal" 
+                     HorizontalOptions="Fill">
+            
+            
+            <Label Text="Kolor zielony/niebieski"
+                   FontSize="20"
+                   TextColor="Green"
+                   x:Name="switchLable"/>
+                            
+            <Switch HorizontalOptions="EndAndExpand"
+                    IsToggled="False"
+                    Toggled="Switch_Toggled"/>
+        </StackLayout>
+
+        <Label x:Name="switchStateLable" Text="OFF"/>
+
+    </StackLayout>
+
+</ContentPage>

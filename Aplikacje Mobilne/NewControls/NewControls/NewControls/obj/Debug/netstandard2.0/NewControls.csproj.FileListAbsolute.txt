@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\NewControls.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\NewControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\NewControls.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\NewControls.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\NewControls.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\NewControls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\refint\NewControls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\NewControls.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\bin\Debug\netstandard2.0\NewControls.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\bin\Debug\netstandard2.0\NewControls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\bin\Debug\netstandard2.0\NewControls.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\NewControls\NewControls\NewControls\obj\Debug\netstandard2.0\ref\NewControls.dll
