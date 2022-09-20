@@ -17,11 +17,27 @@ namespace FirstApp
 
         private void addNumbers_Clicked(object sender, EventArgs e)
         {
-            var num1 = float.Parse(num2Entry.Text);
-            var num2 = Convert.ToSingle(num1Entry.Text);
-            float.TryParse(num3Entry.Text, out float num3);
-            var sum = num1 + num2 + num3;
-            Wynik.Text = sum.ToString();
+            try
+            {
+
+                var num1 = float.Parse(num2Entry.Text);
+                var num2 = Convert.ToSingle(num1Entry.Text);
+                var isValid = float.TryParse(num3Entry.Text, out float num3);
+                var sum = num1 + num2 + num3;
+
+                if (!isValid)
+                {
+                    throw new Exception();
+                }
+
+                Wynik.Text = sum.ToString();
+            }
+            catch (Exception ex)
+            {
+                Wynik.Text = "Złe dane wejściowe";
+            }
+        
+            
         }
     }
 }
