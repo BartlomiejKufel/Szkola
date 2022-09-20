@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\HomePage.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\HomePage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\HomePage.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\HomePage.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\HomePage.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\bin\Debug\netstandard2.0\HomePage.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\bin\Debug\netstandard2.0\HomePage.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\bin\Debug\netstandard2.0\HomePage.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\HomePage.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\refint\HomePage.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\HomePage.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\HomePage\HomePage\HomePage\obj\Debug\netstandard2.0\ref\HomePage.dll

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstApp.MainPage">
+    <StackLayout VerticalOptions="Center"
+                 Margin="20, 1">
+        
+        <Label Text="Liczba 1"
+               HorizontalTextAlignment="Center"/>
+        <Entry x:Name="num1Entry"
+               HorizontalTextAlignment="Center"
+               HorizontalOptions="Center"
+               WidthRequest="220"/>
+
+        <Label Text="Liczba 2"
+               HorizontalTextAlignment="Center"/>
+        <Entry x:Name="num2Entry"
+               HorizontalTextAlignment="Center"
+               HorizontalOptions="Center"
+               WidthRequest="220"/>
+
+        <Button Clicked="addNumbers_Clicked"
+                Text="Dodaj"
+                HorizontalOptions="Center"
+                WidthRequest="200"
+                />
+        
+        <Label Text="Wynik:"
+               HorizontalTextAlignment="Center"
+               Font="Bold"
+               FontSize="28"/>
+        
+        <Label Text="" x:Name="Wynik"
+               HorizontalTextAlignment="Center"
+               Font="Bold"
+               FontSize="20"/>
+    </StackLayout>
+</ContentPage>

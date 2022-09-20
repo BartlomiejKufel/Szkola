@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZO6ogSNZMvdQlrE81yyUWc4INgNWMfRkjvFoCnD9vpJf5S+5Wgz21bYproHYshQ9/IabDN17PR00wW7eV/d11g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Mobilne\\HomePage\\HomePage\\HomePage.iOS\\HomePage.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
