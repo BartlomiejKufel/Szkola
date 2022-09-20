@@ -19,6 +19,13 @@
                HorizontalOptions="Center"
                WidthRequest="220"/>
 
+        <Label Text="Liczba 3"
+               HorizontalTextAlignment="Center"/>
+        <Entry x:Name="num3Entry"
+               HorizontalTextAlignment="Center"
+               HorizontalOptions="Center"
+               WidthRequest="220"/>
+
         <Button Clicked="addNumbers_Clicked"
                 Text="Dodaj"
                 HorizontalOptions="Center"
@@ -34,5 +41,6 @@
                HorizontalTextAlignment="Center"
                Font="Bold"
                FontSize="20"/>
+        
     </StackLayout>
 </ContentPage>

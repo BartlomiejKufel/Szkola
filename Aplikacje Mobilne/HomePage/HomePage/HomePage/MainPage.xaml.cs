@@ -17,8 +17,11 @@ namespace FirstApp
 
         private void addNumbers_Clicked(object sender, EventArgs e)
         {
-            int sum = Convert.ToInt32(num2Entry.Text) + Convert.ToInt32(num1Entry.Text);
-            Wynik.Text=sum.ToString();
+            var num1 = float.Parse(num2Entry.Text);
+            var num2 = Convert.ToSingle(num1Entry.Text);
+            float.TryParse(num3Entry.Text, out float num3);
+            var sum = num1 + num2 + num3;
+            Wynik.Text = sum.ToString();
         }
     }
 }
