@@ -1,0 +1,17 @@
+﻿<Window x:Class="BossJoke.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BossJoke"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Margin="0,108,0,0" TextWrapping="Wrap" Text="Czy chcesz podwyżkę?" VerticalAlignment="Top" FontSize="30"/>
+
+
+        <Button x:Name="butTak" Content="Tak" HorizontalAlignment="Left" Margin="218,0,0,0" VerticalAlignment="Center" Height="56" Width="140" Click="Button_Click"/>
+        <Button x:Name="butNie" Content="Nie" HorizontalAlignment="Left" Margin="444,0,0,0" VerticalAlignment="Center" Height="56" Width="140" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
