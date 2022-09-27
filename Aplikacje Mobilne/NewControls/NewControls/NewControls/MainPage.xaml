@@ -3,24 +3,98 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="NewControls.MainPage">
 
-    <StackLayout VerticalOptions="Center"
-                 Margin="20, 1">
-        <StackLayout Orientation="Horizontal" 
-                     HorizontalOptions="Fill">
-            
-            
-            <Label Text="Kolor zielony/niebieski"
-                   FontSize="20"
-                   TextColor="Green"
-                   x:Name="switchLable"/>
-                            
-            <Switch HorizontalOptions="EndAndExpand"
-                    IsToggled="False"
-                    Toggled="Switch_Toggled"/>
+    <StackLayout HorizontalOptions="Center" 
+                 Margin="20, 10">
+
+        <Label Text="Równanie kwadratowe"
+               FontSize="30"/>
+        
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center"
+                     Margin="0,10">
+            <CheckBox IsChecked="False"
+                      x:Name="runProgram"
+                      CheckedChanged="runProgram_CheckedChanged"/>
+
+            <Label Text="włącz program"
+                   FontSize="20"/>
         </StackLayout>
+            
+        <StackLayout x:Name="programStack" 
+                     Margin="20"
+                     IsVisible="false"
+                     >
+            
+            <StackLayout HorizontalOptions="Center" 
+                         Orientation="Horizontal">
+                <Label Text="a" 
+                       FontSize="20"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Start"/>
+                
+                <Stepper Maximum="10"
+                         Minimum="-10"
+                         Value="0"
+                         x:Name="aStepper"
+                         ValueChanged="aStepper_ValueChanged"
+                         HorizontalOptions="Center"
+                         Margin="10"/>
+                
+                <Label Text="0"
+                       FontSize="20"
+                       VerticalOptions="Center"
+                       x:Name="aLabel"
+                       />
+            </StackLayout>
 
-        <Label x:Name="switchStateLable" Text="OFF"/>
+            <StackLayout HorizontalOptions="Center" 
+                         Orientation="Horizontal">
+                <Label Text="b" 
+                       FontSize="20"
+                       VerticalOptions="Center"/>
+                
+                <Slider Maximum="10"
+                        Minimum="-10"
+                        Value="0"
+                        x:Name="bSlider"
+                        WidthRequest="170"
+                        BackgroundColor="LightGray"
+                        ThumbColor="Black"
+                        ValueChanged="bSlider_ValueChanged"
+                        Margin="10"/>
+                
+                <Label Text="0"
+                       FontSize="20"
+                       VerticalOptions="Center"
+                       x:Name="bLabel"/>
+            </StackLayout>
 
+            <StackLayout HorizontalOptions="Center" 
+                         Orientation="Horizontal">
+                
+                <Label Text="c" 
+                       FontSize="20"
+                       VerticalOptions="Center"/>
+
+                <Entry WidthRequest="170"
+                       x:Name="cEntry"
+                       Margin="10"
+                       Placeholder="Wpisz c"
+                       />
+
+            </StackLayout>
+
+            <Button Margin="40"
+                    Text="Oblicz"
+                    Clicked="Button_Clicked"/>
+
+            <Editor x:Name="wynikEditor"
+                    HorizontalOptions="FillAndExpand"
+                    IsVisible="false"
+                    />
+
+
+        </StackLayout>
     </StackLayout>
 
 </ContentPage>
