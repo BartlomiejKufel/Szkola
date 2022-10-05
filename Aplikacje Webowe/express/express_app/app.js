@@ -40,7 +40,7 @@ app.get('/greeting',(req,res)=>{
 
 //https://umbraco.com/knowledge-base/http-status-codes/
 //link do listy błędów 
-app.use((err, req, res, next)=>{
+app.use((req, res, next)=>{
     res.status(500)
     res.send('<h1>Błąd serwera (500)</h1>')
 })

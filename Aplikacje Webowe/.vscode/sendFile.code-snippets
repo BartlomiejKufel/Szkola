@@ -1,0 +1,14 @@
+{
+	"Print to console": {
+	 	"scope": "javascript,typescript",
+	 	"prefix": "pat",
+	 	"body": [
+			"const path = required('path')",
+			"app.get('/',(req,res)=>{",
+				"const filePath = path.join(__dirname,'/')",
+				"res.sendFile(filePath)",
+			"})",
+	 	],
+	 	"description": "Log output to console"
+	}
+}

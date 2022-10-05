@@ -1,0 +1,17 @@
+{
+	
+	 "Simple app body": {
+	 	"scope": "javascript,typescript",
+	 	"prefix": "exp",
+	 	"body": [
+			"const express = require('express')",
+			"const app = express()",
+
+			"app.get('/', (req,res)=>{",
+				"res.send('')",
+			"})",
+			"app.listen(4000)",
+	 	],
+	 	"description": "Write simple body of app using express"
+	 }
+}
