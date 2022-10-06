@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\bin\Debug\net6.0\Zadanie.exe
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\bin\Debug\net6.0\Zadanie.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\bin\Debug\net6.0\Zadanie.runtimeconfig.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\bin\Debug\net6.0\Zadanie.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\bin\Debug\net6.0\Zadanie.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\Zadanie.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\Zadanie.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\Zadanie.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\Zadanie.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\refint\Zadanie.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\Zadanie.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\Zadanie.genruntimeconfig.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zad_d\Zadanie\Zadanie\obj\Debug\net6.0\ref\Zadanie.dll
