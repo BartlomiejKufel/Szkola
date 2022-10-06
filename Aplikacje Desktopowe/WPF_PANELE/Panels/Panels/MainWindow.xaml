@@ -5,8 +5,39 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Panels"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow" Height="300" Width="400">
+    <Grid Margin="10,5,10,5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="1.5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Pierwsza liczba: " FontSize="20" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="0" Grid.Column="1" FontSize="20" VerticalAlignment="Center" x:Name="num1TextBox"/>
+
+        <Label Content="Druga liczba: " FontSize="20" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="1" Grid.Column="1" FontSize="20" VerticalAlignment="Center" x:Name="num2TextBox"/>
+
+        <Label Content="Wynik: " FontSize="20" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="2" Grid.Column="1" FontSize="20" VerticalAlignment="Center" IsReadOnly="True" x:Name="wynikTextBox"/>
+
+        <Button Grid.Column="1" Grid.Row="3" VerticalAlignment="Top" HorizontalAlignment="Right" FontSize="25" Content="Oblicz" Click="Button_Click"
+                Padding="10,1,10,1"
+                />
+
+        <ComboBox Grid.Column="1" VerticalAlignment="Top"  HorizontalAlignment="Left"  Grid.Row="3"  RenderTransformOrigin="0.188,-0.592" x:Name="rownanieComboBox">
+            <ComboBoxItem IsSelected="True">+</ComboBoxItem>
+            <ComboBoxItem>-</ComboBoxItem>
+            <ComboBoxItem>*</ComboBoxItem>
+            <ComboBoxItem>/</ComboBoxItem>
+        </ComboBox>
+
 
     </Grid>
 </Window>
