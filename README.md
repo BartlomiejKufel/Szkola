@@ -5,3 +5,11 @@
 - Aplikacje Desktopowe
 - Aplikacje Webowe
 
+
+## Pomocne Linki
+| Nazwy | Linki |
+| ------ | ------ |
+| Visual Studio0 | https://visualstudio.microsoft.com/ |
+| GitHub App | https://desktop.github.com/ |
+| Git | https://git-scm.com/ |
+| Node.js | https://nodejs.org/ |
