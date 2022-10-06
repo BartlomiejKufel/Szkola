@@ -1,0 +1,30 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\bin\Debug\netstandard2.0\Next_Controls.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\bin\Debug\netstandard2.0\Next_Controls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\bin\Debug\netstandard2.0\Next_Controls.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\refint\Next_Controls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Lab 1\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\ref\Next_Controls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\bin\Debug\netstandard2.0\Next_Controls.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\bin\Debug\netstandard2.0\Next_Controls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\bin\Debug\netstandard2.0\Next_Controls.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\refint\Next_Controls.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\Next_Controls.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Next_Controls\Next_Controls\Next_Controls\obj\Debug\netstandard2.0\ref\Next_Controls.dll

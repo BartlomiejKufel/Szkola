@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Next_Controls.MainPage">
+
+    <StackLayout>
+        <StackLayout Margin="0,0,0,120">
+            <Image Source="ai.jpg" Margin="0"/>
+            <BoxView Color="black" Margin="-10" HeightRequest="4"/>
+            <Frame WidthRequest="150"
+               HeightRequest="150"
+               CornerRadius="100"
+               HorizontalOptions="Center"
+               Padding="0" 
+               Margin="-90">
+                <Image Source="profile.jpg"/>
+            </Frame>
+        </StackLayout>
+
+        <StackLayout VerticalOptions="Center"
+                     HorizontalOptions="Center">
+            <Label Text="Podaj datę urodzenia" 
+                   FontSize="20"/>
+            <DatePicker x:Name="urodzinyDatePicker" 
+                        Margin="0,0,0,30"
+                        DateSelected="urodzinyDatePicker_DateSelected"/>
+
+            <Label Text="Dziś kończę o" FontSize="20"/>
+            <TimePicker x:Name="koniecTimePicker"
+                        Margin="0,0,0,60"
+                        PropertyChanging="koniecTimePicker_PropertyChanging"
+                        />
+
+            <Button Text="Zatwierdź" 
+                    IsEnabled="False"
+                    x:Name="zatwerdzButton"/>
+        </StackLayout>
+
+        <StackLayout Margin="0,50,0,0">
+            <BoxView Color="Black" HeightRequest="4" Margin="0,0,0,10"/>
+            <Label Text="Urodziłeś się w: "
+                   x:Name="urodzinyLable"
+                   HorizontalOptions="Center"
+                   FontSize="20"
+                   Margin="0,0,0,10"/>
+            <Label Text="Koniec zajęć o: "
+                   x:Name="koniecLable"
+                   HorizontalOptions="Center"
+                   FontSize="20"
+                   Margin="0,0,0,50"/>
+
+
+            <ProgressBar HorizontalOptions="Center"
+                         WidthRequest="320"
+                         HeightRequest="30"
+                         ProgressColor="Green"
+                         x:Name="progreBar"
+                         PropertyChanged="progreBar_PropertyChanged"
+                         />
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>
