@@ -34,7 +34,7 @@ namespace LiderKonsola
 
             for (int i = 0; i < tab.Length; i++)
             {
-                tab[i] = rand.Next(1, 4);
+                tab[i] = rand.Next(1, 3);
             }
 
             return tab;
