@@ -1,0 +1,15 @@
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\bin\Debug\net6.0\LiderKonsola.exe
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\bin\Debug\net6.0\LiderKonsola.deps.json
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\bin\Debug\net6.0\LiderKonsola.runtimeconfig.json
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\bin\Debug\net6.0\LiderKonsola.dll
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\bin\Debug\net6.0\LiderKonsola.pdb
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\LiderKonsola.csproj.AssemblyReference.cache
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\LiderKonsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\LiderKonsola.AssemblyInfoInputs.cache
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\LiderKonsola.AssemblyInfo.cs
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\LiderKonsola.csproj.CoreCompileInputs.cache
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\LiderKonsola.dll
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\refint\LiderKonsola.dll
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\LiderKonsola.pdb
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\LiderKonsola.genruntimeconfig.cache
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\WPF_CONSOLE_LIDER\LiderKonsola\LiderKonsola\obj\Debug\net6.0\ref\LiderKonsola.dll
