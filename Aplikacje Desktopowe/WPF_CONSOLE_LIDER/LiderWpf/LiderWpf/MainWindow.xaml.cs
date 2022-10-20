@@ -1,9 +1,30 @@
-﻿using System.Security.Cryptography;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
 
-namespace LiderKonsola
+namespace LiderWpf
 {
-    internal class Program
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
     {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Tablica:");
@@ -11,12 +32,12 @@ namespace LiderKonsola
             int arrLength;
             int.TryParse(Console.ReadLine(), out arrLength);
             int[] tab = GenerateArray(arrLength);
-            
+
             Console.WriteLine();
 
-            foreach (var item in tab.Select((value, i)=>new { i,value}))
+            foreach (var item in tab.Select((value, i) => new { i, value }))
             {
-                var index = item.i + 1; 
+                var index = item.i + 1;
                 Console.WriteLine($"Pozycja:{index}-{item.value}");
             }
             Console.WriteLine($"Liderem jest: {FindLeader(tab)}");
@@ -34,7 +55,7 @@ namespace LiderKonsola
 
             for (int i = 0; i < tab.Length; i++)
             {
-                tab[i] = rand.Next(1, 4);
+                tab[i] = rand.Next(1, 3);
             }
 
             return tab;
@@ -42,7 +63,7 @@ namespace LiderKonsola
 
         public static int FindLeader(int[] tab)
         {
-            var half = (tab.Length-1)/2;
+            var half = (tab.Length - 1) / 2;
 
             int leader = 0;
             int leaderCount = 0;
@@ -50,13 +71,13 @@ namespace LiderKonsola
             for (int i = 0; i < tab.Length; i++)
             {
                 leader = tab[i];
-                for (int j = i+1; j < tab.Length; j++)
+                for (int j = i + 1; j < tab.Length; j++)
                 {
                     if (leader == tab[j])
                         leaderCount++;
                 }
 
-                if (leaderCount > half)
+                if (leaderCount >= half)
                 {
                     return leader;
                 }
@@ -71,5 +92,12 @@ namespace LiderKonsola
             return leader;
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            int arrLength = (int)iloscSlider.Value;
+
+            GenerateArray(arrLength);
+
+        }
     }
 }
