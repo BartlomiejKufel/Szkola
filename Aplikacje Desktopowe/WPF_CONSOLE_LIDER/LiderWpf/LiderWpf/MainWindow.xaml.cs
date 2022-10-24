@@ -15,9 +15,19 @@ using System.Windows.Shapes;
 
 namespace LiderWpf
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    public class Leader
+    {
+        public int LeaderInt { get; set; }
+        public int LeaderCount { get; set; }
+
+        public Leader(int leaderInt, int leaderCount)
+        {
+            LeaderInt = leaderInt;
+            LeaderCount = leaderCount;
+        }
+    }
+
+
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -25,32 +35,11 @@ namespace LiderWpf
             InitializeComponent();
         }
 
-        static void Main(string[] args)
+        
+
+
+        public static int[] FillArray(int[] tab)
         {
-            Console.WriteLine("Tablica:");
-            Console.WriteLine("Podaj długość tablicy");
-            int arrLength;
-            int.TryParse(Console.ReadLine(), out arrLength);
-            int[] tab = GenerateArray(arrLength);
-
-            Console.WriteLine();
-
-            foreach (var item in tab.Select((value, i) => new { i, value }))
-            {
-                var index = item.i + 1;
-                Console.WriteLine($"Pozycja:{index}-{item.value}");
-            }
-            Console.WriteLine($"Liderem jest: {FindLeader(tab)}");
-
-
-
-        }
-
-
-        public static int[] GenerateArray(int count)
-        {
-            int[] tab = new int[count];
-
             Random rand = new Random();
 
             for (int i = 0; i < tab.Length; i++)
@@ -61,9 +50,9 @@ namespace LiderWpf
             return tab;
         }
 
-        public static int FindLeader(int[] tab)
+        public static Leader FindLeader(int[] tab)
         {
-            var half = (tab.Length - 1) / 2;
+            var half = (tab.Length) / 2;
 
             int leader = 0;
             int leaderCount = 0;
@@ -79,7 +68,10 @@ namespace LiderWpf
 
                 if (leaderCount >= half)
                 {
-                    return leader;
+                    leaderCount++;
+
+                    Leader ld = new Leader(leader, leaderCount);
+                    return ld;
                 }
                 else
                 {
@@ -88,15 +80,28 @@ namespace LiderWpf
                 }
             }
 
-
-            return leader;
+            Leader ldr = new Leader(leader, leaderCount);
+            return ldr;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            wypiszListView.Items.Clear();
             int arrLength = (int)iloscSlider.Value;
 
-            GenerateArray(arrLength);
+            int[] tab = new int[arrLength];
+
+            FillArray(tab);
+
+            foreach (var item in tab)
+            {
+                wypiszListView.Items.Add(item);
+            }
+
+            var leader = FindLeader(tab);
+            
+            lideraNumLabel.Content = leader.LeaderInt;
+            lidearCountLabel.Content = leader.LeaderCount;
 
         }
     }
