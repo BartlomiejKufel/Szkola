@@ -1,0 +1,15 @@
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\bin\Debug\net6.0\Money_Consol.exe
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\bin\Debug\net6.0\Money_Consol.deps.json
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\bin\Debug\net6.0\Money_Consol.runtimeconfig.json
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\bin\Debug\net6.0\Money_Consol.dll
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\bin\Debug\net6.0\Money_Consol.pdb
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\Money_Consol.csproj.AssemblyReference.cache
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\Money_Consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\Money_Consol.AssemblyInfoInputs.cache
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\Money_Consol.AssemblyInfo.cs
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\Money_Consol.csproj.CoreCompileInputs.cache
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\Money_Consol.dll
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\refint\Money_Consol.dll
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\Money_Consol.pdb
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\Money_Consol.genruntimeconfig.cache
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Pieniadze\Money_Consol\Money_Consol\obj\Debug\net6.0\ref\Money_Consol.dll
