@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\bin\Debug\netstandard2.0\Layout.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\bin\Debug\netstandard2.0\Layout.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\bin\Debug\netstandard2.0\Layout.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\Layout.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\Layout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\Layout.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\Layout.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\Layout.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\Layout.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\refint\Layout.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\Layout.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutTest\Layout\Layout\Layout\obj\Debug\netstandard2.0\ref\Layout.dll
