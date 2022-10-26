@@ -7,6 +7,27 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="50*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Jacek" Grid.Row="0"  FontSize="28" HorizontalAlignment="Center" Margin="0,29,0,97"/>
+        <Label Content="50 zł" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" FontSize="28" HorizontalAlignment="Center"/>
+        <Button Grid.Column="0" Grid.Row="0" Content="Przekaż" Height="30" VerticalAlignment="Top" Margin="50,125,50,0"/>
+
+
+        <Label Content="Bartek" Grid.Column="2" Grid.Row="0"  FontSize="28" HorizontalAlignment="Center" Margin="0,29,0,97"/>
+        <Label Content="100 zł" Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" FontSize="28" HorizontalAlignment="Center"/>
+        <Button Grid.Column="2" Grid.Row="0" Content="Przekaż" Height="30" VerticalAlignment="Top" Margin="50,125,50,0"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="1" Height="30" FontSize="25"/>
 
     </Grid>
 </Window>
