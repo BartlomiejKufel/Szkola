@@ -11,22 +11,25 @@
     <%- include('./includes/navigation.ejs')  %>
 
     <h1>Oddziały</h1>
-    <table>
-        <tr>
-            <th>Miasto</th>
-            <th>Ulica</th>
-            <th>Kod Pocztowy</th>
-        </tr>
+
+    <% if (location.length === 0) { %>
+        <h2>Brak otwartych oddziałów</h2>
+    <% }else{%>
+        <table>
+            <tr>
+                <th>Miasto</th>
+                <th>Ulica</th>
+                <th>Kod Pocztowy</th>
+            </tr>
             <% locations.forEach(item => { %>
-                <tr>
-                    <td><%=  item.name%></td> 
-                    <td><%=  item.street%></td> 
-                    <td><%=  item.zipCode%></td> 
-                </tr>
-    
+            <tr>
+                <td><%=  item.name%></td> 
+                <td><%=  item.street%></td> 
+                <td><%=  item.zipCode%></td> 
+            </tr>
             <% }) %>
-    </table>
-              
+        </table>
+    <% } %> 
     
 
 </body>
