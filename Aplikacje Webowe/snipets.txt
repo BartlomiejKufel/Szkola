@@ -1,0 +1,5 @@
+pub - stworzenie ścieżki publicznej
+exp - stworzenie struktury expressa
+pat - otwieranie pliku html 
+rtr - utworzenie routera
+vej - view

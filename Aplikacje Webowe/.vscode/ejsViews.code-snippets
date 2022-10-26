@@ -1,0 +1,14 @@
+{
+
+	 "Print to console": {
+	 	"scope": "javascript,typescript",
+	 	"prefix": "vej",
+	 	"body": [
+			"app.set('view engine', 'ejs')",
+			"app.set('views','./views')"
+			
+			
+	 	],
+	 	"description": "Log output to console"
+	 }
+}

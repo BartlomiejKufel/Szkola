@@ -1,0 +1,17 @@
+{
+	
+	 "Router": {
+	 	"scope": "javascript,typescript",
+	 	"prefix": "rtr",
+	 	"body": [
+	 		"const router = express.Router()",
+			"",
+			 "router.get('/', (req,res)=>{",
+				 "res.render('cos')",
+			 "})",
+			"",
+			 "module.exports = router"
+	 	],
+	 	"description": "Log output to console"
+	 }
+}
