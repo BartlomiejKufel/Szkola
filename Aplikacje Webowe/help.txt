@@ -1,0 +1,11 @@
+#komendy w bash
+npm i [nazwa frameworka] - instalacja frameworka np. ejs, nodemon lub expressa
+npm init -y - stworzenie pliku package.json
+cd (./, ../) - poruszanie się po scieżkach
+
+#snipets
+pub - stworzenie ścieżki publicznej
+exp - stworzenie struktury expressa
+pat - otwieranie pliku html 
+rtr - utworzenie routera
+vej - view

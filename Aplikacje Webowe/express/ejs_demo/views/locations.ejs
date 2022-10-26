@@ -17,13 +17,14 @@
             <th>Ulica</th>
             <th>Kod Pocztowy</th>
         </tr>
-            <% for(let i=0; i<locations.length; i++){ %> 
-            <tr>
-                <td><%=  locations[i].name%></td> 
-                <td><%=  locations[i].street%></td> 
-                <td><%=  locations[i].zipCode%></td> 
-            </tr>
-            <% } %> 
+            <% locations.forEach(item => { %>
+                <tr>
+                    <td><%=  item.name%></td> 
+                    <td><%=  item.street%></td> 
+                    <td><%=  item.zipCode%></td> 
+                </tr>
+    
+            <% }) %>
     </table>
               
     
