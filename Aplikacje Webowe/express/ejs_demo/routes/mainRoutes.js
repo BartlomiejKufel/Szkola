@@ -47,7 +47,11 @@ router.get('/locations',(req,res)=>{
         res.render('locations', {locations: locations})
 })
 
-
+router.get('/team',(req,res)=>{
+    res.render('team', {
+        pageTitle: "Nasz zespół"
+    })
+})
 
 
 module.exports = router
