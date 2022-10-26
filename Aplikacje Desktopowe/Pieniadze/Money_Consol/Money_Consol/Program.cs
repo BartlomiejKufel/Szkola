@@ -29,11 +29,31 @@
 
                 Console.Write("Pieniądze ma przekazać: ");
                 var personRequest = Console.ReadLine();
+                int tmp;
 
                 switch (personRequest)
                 {
-                    case "Bartek": jacek.TakeMoney(jacek, bartek, money); break;
-                    case "Jacek": bartek.TakeMoney(bartek, jacek, money);break;
+                    case "Bartek":
+                        tmp = bartek.GiveMoney(money, bartek);
+                        if ( tmp== 0)
+                        {
+                            Console.WriteLine($"{bartek.Name} mówi: nie mam wystarczająco środków aby dać ci {money} zł.");
+                        }
+                        else
+                        {
+                            jacek.TakeMoney(tmp,jacek);
+                        };
+                        break;
+                    case "Jacek":
+                        tmp = jacek.GiveMoney(money, jacek);
+                        if ( tmp == 0)
+                        {
+                            Console.WriteLine($"{jacek.Name} mówi: nie mam wystarczająco środków aby dać ci {money} zł.");
+                        }
+                        else
+                        {
+                            bartek.TakeMoney(tmp, bartek);
+                        } ; break;
                 }
 
             }while (true);

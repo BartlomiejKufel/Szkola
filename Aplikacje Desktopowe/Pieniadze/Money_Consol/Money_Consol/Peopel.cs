@@ -18,25 +18,41 @@ namespace Money_Consol
         }
 
         //jedna metoda na zklejona z 3 innych
-        public Person TakeMoney(Person per1, Person per2, int money)
+        public Person TakeMoney(int money, Person per)
         {
-            int check = per2.Money - money;
-            if (check < 0)
+            per.Money += money;
+            return per;
+        }
+
+        public int GiveMoney(int money, Person per)
+        {
+            int check = Money - money;
+            if (check < 0 || money< 0 )
             {
-                Console.WriteLine($"{per2.Name} mówi: nie mam wystarczających środków, aby dać ci {money} zł.");
+                return 0;
             }
-            else if (money == 5)
+            else if (CheckForBonus(money))
             {
-                per1.Money += money+10;
-                per2.Money -= money;
+                per.Money -= money;
+                return money + 10;
             }
             else
             {
-                per1.Money += money;
-                per2.Money -= money;
+                per.Money -= money;
+                return money;
             }
-
-            return per1;
         }
+
+        public static bool CheckForBonus(int money)
+        {
+            if (money == 5)
+                return true;
+            else
+                return false;
+
+        }
+
+
+      
     }
 }
