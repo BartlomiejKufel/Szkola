@@ -1,7 +1,9 @@
 #komendy w bash
-npm i [nazwa frameworka] - instalacja frameworka np. ejs, nodemon lub expressa
+npm i [nazwa frameworka] - instalacja frameworka np. ejs lub expressa
 npm init -y - stworzenie pliku package.json
 cd (./, ../) - poruszanie się po scieżkach
+npm i --save-dev nodemon - instalacja pakietu nodemon
+npm start - komęda do uruchomienia aplikacji przez nodemona po konfiguracji package.json
 
 #snipets
 pub - stworzenie ścieżki publicznej
