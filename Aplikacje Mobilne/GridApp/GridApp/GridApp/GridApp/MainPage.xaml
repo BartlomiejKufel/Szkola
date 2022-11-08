@@ -5,7 +5,7 @@
 
     <ContentPage.Resources>
         <ResourceDictionary>
-            
+            <Color x:Key="favGreen">LightSeaGreen</Color>
             <Style TargetType="Button">
                 <Setter Property="FontSize" Value="26"/>
             </Style>
@@ -16,7 +16,7 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     
-    <Grid Padding="20" BackgroundColor="LightSeaGreen">
+    <Grid Padding="20" BackgroundColor="{StaticResource favGreen}">
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
