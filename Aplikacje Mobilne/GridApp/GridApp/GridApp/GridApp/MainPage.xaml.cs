@@ -55,8 +55,7 @@ namespace GridApp
             poleEntry.Text = "0";
             isNumberSecond = false;
             operation = "";
-            number1 = 0;
-            number2 = 0;
+
         }
 
         private void DeleteButton_Clicked(object sender, EventArgs e)
@@ -102,7 +101,8 @@ namespace GridApp
             }
 
             if (operation == "/" && number2 != 0) result = number1 / number2;
-
+            else
+                DisplayAlert("Błąd","Nie można dzielić przez 0.","OK");
             poleEntry.Text = $"{result}";
             operation = "";
             isNumberSecond = false;
@@ -124,9 +124,12 @@ namespace GridApp
 
             if (isNumberSecond)
             {
-                 percentNum= (number1*percentNum)/1000;
+                percentNum = percentNum / 100;
             }
             poleEntry.Text = percentNum.ToString();
         }
     }
 }
+
+
+
