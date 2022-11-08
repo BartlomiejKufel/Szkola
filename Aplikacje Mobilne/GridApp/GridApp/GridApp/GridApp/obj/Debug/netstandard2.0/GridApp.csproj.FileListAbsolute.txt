@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\bin\Debug\netstandard2.0\GridApp.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\bin\Debug\netstandard2.0\GridApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\bin\Debug\netstandard2.0\GridApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\refint\GridApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\GridApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\GridApp\GridApp\GridApp\GridApp\obj\Debug\netstandard2.0\ref\GridApp.dll
