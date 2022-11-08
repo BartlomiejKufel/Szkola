@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "c7f5f8T6m+I3AtCNdjj1K1gzdfTCkKcadwpApjSTCtSpyS6W51MR/V6zOH4fzy2GwOdUyLo00TRf8CM4mqmhtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Mobilne\\GridApp\\GridApp\\GridApp\\GridApp\\GridApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
