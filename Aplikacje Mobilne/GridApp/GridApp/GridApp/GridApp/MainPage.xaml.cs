@@ -100,9 +100,11 @@ namespace GridApp
                     break;
             }
 
-            if (operation == "/" && number2 != 0) result = number1 / number2;
+            if (operation == "/" && number2 != 0)
+                result = number1 / number2;
             else
                 DisplayAlert("Błąd","Nie można dzielić przez 0.","OK");
+
             poleEntry.Text = $"{result}";
             operation = "";
             isNumberSecond = false;

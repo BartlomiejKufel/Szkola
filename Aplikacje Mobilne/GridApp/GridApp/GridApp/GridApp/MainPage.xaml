@@ -10,8 +10,9 @@
                 <Setter Property="FontSize" Value="26"/>
             </Style>
 
-            <Style TargetType="Entry">
+            <Style TargetType="Entry" x:Key="primalEntry">
                 <Setter Property="BackgroundColor"  Value="#d9ead3"/>
+                <Setter Property="FontSize" Value="50"/>
             </Style>
         </ResourceDictionary>
     </ContentPage.Resources>
@@ -35,8 +36,8 @@
         <Frame Grid.Row="0" Grid.ColumnSpan="4" Padding="2" BorderColor="Black">
             <Entry HorizontalTextAlignment="End"
                    Keyboard="Numeric"
-                   FontSize="50"
                    Text="0"
+                   Style="{StaticResource primalEntry}"
                    x:Name="poleEntry"/>
         </Frame>
 
