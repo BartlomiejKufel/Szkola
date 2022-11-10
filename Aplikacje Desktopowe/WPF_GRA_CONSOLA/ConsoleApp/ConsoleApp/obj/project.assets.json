@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\Projekt GPR\\BartlomiejKufel\\BartlomiejKufel\\BartlomiejKufel.csproj",
-      "projectName": "BartlomiejKufel",
-      "projectPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\Projekt GPR\\BartlomiejKufel\\BartlomiejKufel\\BartlomiejKufel.csproj",
+      "projectUniqueName": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\WPF_GRA_CONSOLA\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\WPF_GRA_CONSOLA\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\Projekt GPR\\BartlomiejKufel\\BartlomiejKufel\\obj\\",
+      "outputPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\WPF_GRA_CONSOLA\\ConsoleApp\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kufel.bartlomiej.ptb\\AppData\\Roaming\\NuGet\\NuGet.Config",

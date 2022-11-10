@@ -13,3 +13,18 @@ C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Projekt GPR\Bartlom
 C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.pdb
 C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.genruntimeconfig.cache
 C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\ref\BartlomiejKufel.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\bin\Debug\net6.0\BartlomiejKufel.exe
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\bin\Debug\net6.0\BartlomiejKufel.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\bin\Debug\net6.0\BartlomiejKufel.runtimeconfig.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\bin\Debug\net6.0\BartlomiejKufel.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\bin\Debug\net6.0\BartlomiejKufel.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\refint\BartlomiejKufel.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\BartlomiejKufel.genruntimeconfig.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Projekt GPR\BartlomiejKufel\BartlomiejKufel\obj\Debug\net6.0\ref\BartlomiejKufel.dll
