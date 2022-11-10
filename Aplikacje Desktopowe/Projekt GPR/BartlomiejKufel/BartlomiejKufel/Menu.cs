@@ -1,16 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BartlomiejKufel
+﻿namespace BartlomiejKufel
 {
     public class Menu
     {
-        public static void StartDialog()
+        public static async Task StartDialog()
         {
-            
+            Console.CursorVisible = false;
+            Console.WriteLine("\n\n\n");
+            string s1 = "~Uruchamianie Aplikacji~";
+            Console.WriteLine("\n");
+            Console.SetCursorPosition((Console.WindowWidth - s1.Length) / 2, Console.CursorTop);
+            Console.WriteLine($"{s1}\n\n\n");
+
+            Console.SetCursorPosition(1, 1);
+            await Task.Delay(1500);
+            Console.Clear();
+            Console.CursorVisible=true;
         }
 
         public static void SelectionDialog()
@@ -50,7 +54,10 @@ namespace BartlomiejKufel
                     case 4:; break;
                     case 5:; break;
                     case 6:; break;
-                    case 9:; break;
+                    case 7:; break;
+                    case 8: Algorithms.Multiplay2DArray(); break;
+                    case 9: Algorithms.Transposition3DArray(); break;
+                    case 10: Algorithms.Game(); break;
                     case 0: break;
                         
                     default: Console.Clear(); break;
@@ -82,5 +89,16 @@ namespace BartlomiejKufel
 
         }
 
+
+        public static void ExitAlgoritm()
+        {
+            Console.WriteLine("\n\nBy przejść do okna wyboru naciśnij klawisz 0");
+            int tmps = 0;
+            do
+            {
+                int.TryParse(Console.ReadLine(), out tmps);
+            } while (tmps != 0);
+            Console.Clear();
+        }
     }
 }

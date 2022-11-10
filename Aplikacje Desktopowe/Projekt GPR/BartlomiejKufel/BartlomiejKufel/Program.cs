@@ -2,10 +2,11 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            //Menu.StartDialog();
-            
+            Console.Title = "Algorytmy Klasyczne Aplikacja Zaliczeniowa";
+
+            await Menu.StartDialog();
             Menu.SelectionDialog();
 
         }
