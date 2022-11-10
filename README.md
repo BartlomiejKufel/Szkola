@@ -2,7 +2,7 @@
 
 ## Repozytorium z plikami z lekcji
 - Aplikacje Mobilne
-- Aplikacje Desktopowe
+- Aplikacje 
 - Aplikacje Webowe
 
 
