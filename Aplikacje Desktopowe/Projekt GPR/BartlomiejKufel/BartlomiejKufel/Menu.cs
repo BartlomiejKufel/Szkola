@@ -17,6 +17,7 @@
             Console.CursorVisible=true;
         }
 
+
         public static void SelectionDialog()
         {
             int option;
@@ -54,7 +55,7 @@
                     case 4:; break;
                     case 5:; break;
                     case 6:; break;
-                    case 7:; break;
+                    case 7: Algorithms.FindMinAndMax(); break;
                     case 8: Algorithms.Multiplay2DArray(); break;
                     case 9: Algorithms.Transposition3DArray(); break;
                     case 10: Algorithms.Game(); break;
@@ -68,6 +69,7 @@
 
             EndDialog();
         }
+
 
         private static void EndDialog()
         {
@@ -99,6 +101,52 @@
                 int.TryParse(Console.ReadLine(), out tmps);
             } while (tmps != 0);
             Console.Clear();
+        }
+
+
+
+        public static void DrawArray(string numberString, int[] array)
+        {
+            int arrayLength = array.Length;
+            /*
+             * Wzór na długość lini
+             * x - ilość elementów w tablicy
+             * y - długość stringa(numberString)
+             * 
+             * 3 * x + y + 1
+             */
+            
+            int lineLength = (arrayLength*3)+numberString.Length+1;
+
+            Console.WriteLine();
+            for (int i = 0; i < lineLength; i++)
+            {
+                Console.Write('-');
+            }
+            Console.WriteLine();
+
+            for (int i = 0; i < arrayLength; i++)
+            {
+                if (i == arrayLength - 1)
+                {
+                    Console.Write(string.Format(" {0} |", array[i]));
+                }
+                else if (i == 0)
+                {
+                    Console.Write(string.Format("| {0} |", array[i]));
+                }
+                else
+                {
+                    Console.Write(string.Format(" {0} |", array[i]));
+                }
+            }
+
+            Console.WriteLine();
+            for (int i = 0; i < lineLength; i++)
+            {
+                Console.Write('-');
+            }
+            Console.WriteLine();
         }
     }
 }

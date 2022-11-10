@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BartlomiejKufel
 {
-    internal class Algorithms
+    partial class Algorithms
     {
         
 
@@ -46,35 +46,22 @@ namespace BartlomiejKufel
             }
 
             int[] resultArray = new int[colLength];
+            string numberString = "";
 
-            
-                for (int i = 0; i < colLength; i++)
-                {
-                    int tmp = array2D[0, i];
-                    resultArray[i] = tmp * array2D[1,i];
-                    
-                }
+
+            for (int i = 0; i < colLength; i++)
+            {
+                int tmp = array2D[0, i];
+                resultArray[i] = tmp * array2D[1, i];
+                numberString += resultArray[i].ToString();
+
+            }
 
             Console.WriteLine("\nWymnożona macież 2 wymiarowa");
 
-            Console.Write("\n--------------\n");
-            for (int i = 0; i < colLength; i++)
-            {
-                if (i == colLength - 1)
-                {
-                    Console.Write(string.Format(" {0} |", resultArray[i]));
-                }
-                else if (i == 0)
-                {
-                    Console.Write(string.Format("| {0} ", resultArray[i]));
-                }
-                else
-                {
-                    Console.Write(string.Format("| {0} |", resultArray[i]));
-                }
-            }
-            Console.Write("\n--------------\n");
 
+            Menu.DrawArray(numberString, resultArray);
+            
             Menu.ExitAlgoritm();
         }
 
@@ -109,13 +96,22 @@ namespace BartlomiejKufel
                     break;
                 }
                 else if (tmp > numberToFind)
+                {
+                    Console.ForegroundColor= ConsoleColor.Red;
                     Console.WriteLine("mniej\n");
+                }
                 else if (tmp < numberToFind)
+                {
+                    Console.ForegroundColor= ConsoleColor.Blue;
                     Console.WriteLine("więcej\n");
+                }
 
+                Console.ForegroundColor = ConsoleColor.White;
             }
 
+            Console.ForegroundColor= ConsoleColor.Green;
             Console.WriteLine("Gratulacje\n");
+            Console.ForegroundColor= ConsoleColor.White;
 
 
             Menu.ExitAlgoritm();
