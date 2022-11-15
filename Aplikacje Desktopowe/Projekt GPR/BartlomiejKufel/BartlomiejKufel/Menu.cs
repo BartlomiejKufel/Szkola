@@ -49,15 +49,15 @@
 
                 switch (option)
                 {
-                    case 1:; break;
+                    case 1: Algorithms.FindBinary(); break;
                     case 2: Algorithms.FactorialOfNumber(); break;
-                    case 3:; break;
-                    case 4:; break;
+                    case 3: Algorithms.BubbleSort(); break;
+                    case 4: Algorithms.CheckForPalindrome(); break;
                     case 5:; break;
                     case 6:; break;
                     case 7: Algorithms.FindMinAndMax(); break;
                     case 8: Algorithms.Multiplay2DArray(); break;
-                    case 9: Algorithms.Transposition3DArray(); break;
+                    case 9: Algorithms.Transposition3DArray(); break; //To jest do zrobienia
                     case 10: Algorithms.Game(); break;
                     case 0: break;
                         
