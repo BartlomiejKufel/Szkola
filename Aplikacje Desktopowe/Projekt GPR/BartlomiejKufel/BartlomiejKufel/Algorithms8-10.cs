@@ -15,11 +15,12 @@ namespace BartlomiejKufel
         {
             Console.Clear();
 
-            int[,] array2D = new int[,] { { 2, 2, 3 }, { 4, 5, 0 } };
-            int rowLength = array2D.GetLength(0);
-            int colLength = array2D.GetLength(1);
+            int[,] firstArray3x3 = new int[,] { { 2, 2, 3 }, { 4, 5, 0 }, { 1, 2, 1} };
+            int[,] secondArray3x3 = new int[,] { { 4, 1, 2 }, { 3, 6, 9 }, { 1, 3, 0} };
+            int rowLength = firstArray3x3.GetLength(0);
+            int colLength = firstArray3x3.GetLength(1);
 
-            Console.WriteLine("Macież 2 wymiarowa");
+            Console.WriteLine("Pierwsza macież 2 wymiarowa");
             for (int i = 0; i < rowLength; i++)
             {
                 Console.Write("\n-------------\n");
@@ -28,15 +29,15 @@ namespace BartlomiejKufel
                 {
                     if (j == colLength-1)
                     {
-                        Console.Write(string.Format(" {0} |", array2D[i, j]));
+                        Console.Write(string.Format(" {0} |", firstArray3x3[i, j]));
                     }
                     else if (j == 0)
                     {
-                        Console.Write(string.Format("| {0} ", array2D[i, j]));
+                        Console.Write(string.Format("| {0} ", firstArray3x3[i, j]));
                     }
                     else
                     {
-                        Console.Write(string.Format("| {0} |", array2D[i, j]));
+                        Console.Write(string.Format("| {0} |", firstArray3x3[i, j]));
                     }
                 }
                 if (i == rowLength - 1)
@@ -51,8 +52,8 @@ namespace BartlomiejKufel
 
             for (int i = 0; i < colLength; i++)
             {
-                int tmp = array2D[0, i];
-                resultArray[i] = tmp * array2D[1, i];
+                int tmp = firstArray3x3[0, i];
+                resultArray[i] = tmp * firstArray3x3[1, i];
                 numberString += resultArray[i].ToString();
 
             }
@@ -71,7 +72,7 @@ namespace BartlomiejKufel
         {
             Console.Clear();
 
-            //Tutaj jest miejsce na twój kod :)
+
 
 
             Menu.ExitAlgoritm();

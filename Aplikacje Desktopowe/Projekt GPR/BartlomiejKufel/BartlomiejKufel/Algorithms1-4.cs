@@ -14,7 +14,7 @@ namespace BartlomiejKufel
         {
             Console.Clear();
             
-            int[] tab = new int[15] { 1, 23, 3, 14, 0, 200, 4, 27, 5, 10, 3213, 22, 32, 9, 7};
+            int[] tab = new int[9] {1, 3, 5, 7, 10, 12, 23, 24, 30};
             int tabLength = tab.Length;
             string numberString = "";
 
@@ -30,19 +30,28 @@ namespace BartlomiejKufel
 
             bool result =false;
 
-            for (int i = 0; i < tabLength; i++)
+
+            int sr;
+            int left = 0;
+            int right = tabLength - 1;
+
+            while (left <= right)
             {
-                if (tab[i] == numberToFind)
+                sr = (left + right) / 2;
+                if (tab[sr] == numberToFind)
                 {
                     result = true;
-                    Console.WriteLine($"\nLiczba znajduje się w {i+1} indeksie.");
+                    Console.WriteLine($"\nLiczba znajduje się w {sr+1} indeksie.");
                     break;
                 }
-                
+                else if (tab[sr] > numberToFind)
+                    right = sr - 1;
+                else
+                    left = sr + 1;
             }
 
             if (!result) 
-                Console.WriteLine("\nLiczba nie znajduje się w tablicy");
+                Console.WriteLine("\nLiczba nie znajduje się w tablicy.");
 
             Menu.ExitAlgoritm();
         }
