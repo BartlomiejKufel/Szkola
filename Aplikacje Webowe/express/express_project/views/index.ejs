@@ -1,0 +1,27 @@
+<%- include('./includes/header.ejs') %> 
+</head>
+<body>
+    <nav>
+        <a href="/" class="a-nav a-active">Strona główna</a> &nbsp; &nbsp;
+        <a href="/about" class="a-nav">O nas</a> &nbsp; &nbsp;
+    </nav>
+
+    <h1><%= pageTitle %> </h1>
+
+    <form action="/" method="post" id="add-form">
+        <label for="firstname">Imie</label><br>
+        <input type="text" name="firstname" id="firstname"> <br><br>
+        
+        <label for="lastname">Imie</label><br>
+        <input type="text" name="lastname" id="lastname"> <br><br>
+        
+        <label for="department">Oddział</label><br>
+        <input type="text" name="department" id="department"> <br><br>
+        
+        <input type="reset" value="Wyczyść">
+        <input type="submit" value="Dodaj">
+        
+    </form>
+    
+
+<%- include('./includes/footer.ejs')  %>

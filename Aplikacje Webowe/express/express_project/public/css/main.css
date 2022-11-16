@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+
+a:visited, a:active{
+    color: #333333;
+}
+
+nav{
+    padding: 20px 0;
+}
+
+.a-nav{
+    text-decoration: none;
+    padding: 6px 20px;
+    color: #333333;
+}
+
+.a-active{
+    background-color: rgb(200, 180, 219);
+}
+
+hr{
+    border:solid 0.5px rgb(200, 180, 219);
+    width: 70%;
+    margin: 40px 0px 10px 0px;
+}
+
+.formHiden{
+    display:none;
+}
+
+.formShow{
+    display: block;
+}

@@ -1,3 +1,23 @@
 *{
-    color: red;
+    font-family: sans-serif;
+    font-size: 1em;
+    background-color: rebeccapurple;
+}
+
+a:visited, a:active{
+    color: #333333;
+}
+
+nav{
+    padding: 20px 0;
+}
+
+.a-nav{
+    text-decoration: none;
+    padding: 6px 20px;
+    color: #333333;
+}
+
+.a-active{
+    background-color: rgb(200, 180, 219);
 }
