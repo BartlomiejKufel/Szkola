@@ -8,6 +8,34 @@ namespace BartlomiejKufel
 {
     partial class Algorithms
     {
+        public static void CaesarCipher()
+        {
+            Console.Clear();
+            string? wordToEncrypt = "";
+            do
+            {
+                Console.WriteLine("Podaj treść do zaszyfrowania");
+                wordToEncrypt = Console.ReadLine();
+
+            } while (String.IsNullOrEmpty(wordToEncrypt));
+
+            wordToEncrypt.ToLower();
+
+            Console.WriteLine("Podaj klucz");
+            int.TryParse(Console.ReadLine(), out int key);
+
+            string[] alphabet = new string[] { "a", "ą", "b", "c", "ć", "d", "e", "ę", "f", "g", "h", "i", "j", "k", "l", "ł", "m", "n", "ń", "o", "ó", "p", "q", "r", "s", "ś", "t", "u", "v", "w", "x", "y", "z", "ź", "ż" };
+            string result="", tmp="";
+            
+            for (int i = 0; i < wordToEncrypt.Length; i++)
+            {
+                 tmp = wordToEncrypt[i].ToString();
+            }
+
+            Menu.ExitAlgoritm();
+        }
+
+
         //Algorytm 7
         public static void FindMinAndMax()
         {

@@ -20,48 +20,34 @@ namespace BartlomiejKufel
             int rowLength = firstArray3x3.GetLength(0);
             int colLength = firstArray3x3.GetLength(1);
 
-            Console.WriteLine("Pierwsza macież 2 wymiarowa");
+            Console.WriteLine("Pierwsza macież");
+            Menu.DrawArray3x3(firstArray3x3);
+
+            Console.WriteLine("Druga macież");
+            Menu.DrawArray3x3(secondArray3x3);
+
+            int[,] resultArray = new int[rowLength,colLength];
+
+            
+            int tmp = 0;
+
             for (int i = 0; i < rowLength; i++)
             {
-                Console.Write("\n-------------\n");
-
                 for (int j = 0; j < colLength; j++)
                 {
-                    if (j == colLength-1)
+                    
+                    tmp = 0;
+                    for (int k = 0; k < colLength; k++)
                     {
-                        Console.Write(string.Format(" {0} |", firstArray3x3[i, j]));
+                        tmp += firstArray3x3[i, k] * secondArray3x3[k, j];
                     }
-                    else if (j == 0)
-                    {
-                        Console.Write(string.Format("| {0} ", firstArray3x3[i, j]));
-                    }
-                    else
-                    {
-                        Console.Write(string.Format("| {0} |", firstArray3x3[i, j]));
-                    }
-                }
-                if (i == rowLength - 1)
-                {
-                    Console.Write("\n-------------\n");
+                    resultArray[i, j] = tmp;
                 }
             }
 
-            int[] resultArray = new int[colLength];
-            string numberString = "";
+            Console.WriteLine("\nWymnożona macież");
+            Menu.DrawArray3x3(resultArray);
 
-
-            for (int i = 0; i < colLength; i++)
-            {
-                int tmp = firstArray3x3[0, i];
-                resultArray[i] = tmp * firstArray3x3[1, i];
-                numberString += resultArray[i].ToString();
-
-            }
-
-            Console.WriteLine("\nWymnożona macież 2 wymiarowa");
-
-
-            Menu.DrawArray(numberString, resultArray);
             
             Menu.ExitAlgoritm();
         }
@@ -72,7 +58,27 @@ namespace BartlomiejKufel
         {
             Console.Clear();
 
+            int[,] array3x3 = new int[,] { { 2, 2, 3 }, { 4, 5, 0 }, { 1, 2, 1 } };
+            int rowLength = array3x3.GetLength(0);
+            int colLength = array3x3.GetLength(1);
 
+
+            Console.WriteLine("Macież przed transpozycją");
+            Menu.DrawArray3x3(array3x3);
+
+            int[,] resultArray = new int[colLength, rowLength];
+
+            
+            for (int i = 0; i < rowLength; i++)
+            {
+                for (int j = 0; j < colLength; j++)
+                {
+                    resultArray[i, j] = array3x3[j, i];
+                }
+            }
+
+            Console.WriteLine("Macież po transpozycji");
+            Menu.DrawArray3x3(resultArray);
 
 
             Menu.ExitAlgoritm();

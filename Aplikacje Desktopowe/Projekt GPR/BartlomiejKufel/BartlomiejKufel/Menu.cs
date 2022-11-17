@@ -53,11 +53,11 @@
                     case 2: Algorithms.FactorialOfNumber(); break;
                     case 3: Algorithms.BubbleSort(); break;
                     case 4: Algorithms.CheckForPalindrome(); break;
-                    case 5:; break;
+                    case 5: Algorithms.CaesarCipher(); break;
                     case 6:; break;
                     case 7: Algorithms.FindMinAndMax(); break;
                     case 8: Algorithms.Multiplay2DArray(); break;
-                    case 9: Algorithms.Transposition3DArray(); break; //To jest do zrobienia
+                    case 9: Algorithms.Transposition3DArray(); break;
                     case 10: Algorithms.Game(); break;
                     case 0: break;
                         
@@ -148,5 +148,69 @@
             }
             Console.WriteLine();
         }
+
+        static public void DrawArray3x3(int[,] array)
+        {
+            int rowLength = array.GetLength(0);
+            int colLength = array.GetLength(1);
+
+            string numberStringRow0="", numberStringRow1="", numberStringRow2 = "";
+
+            for (int i = 0; i < rowLength; i++)
+            {
+                numberStringRow0 += array[0, i].ToString();
+                numberStringRow1 += array[1, i].ToString();
+                numberStringRow2 += array[2, i].ToString();
+
+            }
+
+            int lineLength;
+
+            
+            if(numberStringRow0.Length >= numberStringRow1.Length && numberStringRow0.Length >= numberStringRow2.Length)
+                lineLength = (rowLength * 3) + numberStringRow2.Length + 1;
+            else if(numberStringRow1.Length >= numberStringRow0.Length && numberStringRow1.Length >= numberStringRow2.Length)
+                lineLength = (rowLength * 3) + numberStringRow2.Length + 1;
+            else
+                lineLength = (rowLength * 3) + numberStringRow2.Length + 1;
+
+
+
+            for (int i = 0; i < rowLength; i++)
+            {
+                Console.WriteLine();
+                for (int z = 0; z < lineLength; z++)
+                {
+                    Console.Write('-');
+                }
+                Console.WriteLine();
+
+                for (int j = 0; j < colLength; j++)
+                {
+                    if (j == colLength - 1)
+                    {
+                        Console.Write(string.Format(" {0} |",array[i, j]));
+                    }
+                    else if (j == 0)
+                    {
+                        Console.Write(string.Format("| {0} ", array[i, j]));
+                    }
+                    else
+                    {
+                        Console.Write(string.Format("| {0} |", array[i, j]));
+                    }
+                }
+                if (i == rowLength - 1)
+                {
+                    Console.WriteLine();
+                    for (int z = 0; z < lineLength; z++)
+                    {
+                        Console.Write('-');
+                    }
+                    Console.WriteLine();
+
+                }
+            }
+        } 
     }
 }
