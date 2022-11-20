@@ -54,7 +54,7 @@
                     case 3: Algorithms.BubbleSort(); break;
                     case 4: Algorithms.CheckForPalindrome(); break;
                     case 5: Algorithms.CaesarCipher(); break;
-                    case 6:; break;
+                    case 6: Algorithms.ReversePolishNotation(); break;
                     case 7: Algorithms.FindMinAndMax(); break;
                     case 8: Algorithms.Multiplay2DArray(); break;
                     case 9: Algorithms.Transposition3DArray(); break;
