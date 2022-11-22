@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\bin\Debug\netstandard2.0\PopUpApp.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\bin\Debug\netstandard2.0\PopUpApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\bin\Debug\netstandard2.0\PopUpApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\PopUpApp.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\PopUpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\PopUpApp.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\PopUpApp.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\PopUpApp.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\PopUpApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\refint\PopUpApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\PopUpApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PopUpApp\PopUpApp\PopUpApp\obj\Debug\netstandard2.0\ref\PopUpApp.dll

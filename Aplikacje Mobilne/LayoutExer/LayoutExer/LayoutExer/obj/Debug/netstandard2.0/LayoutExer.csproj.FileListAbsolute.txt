@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\bin\Debug\netstandard2.0\LayoutExer.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\bin\Debug\netstandard2.0\LayoutExer.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\bin\Debug\netstandard2.0\LayoutExer.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\LayoutExer.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\LayoutExer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\LayoutExer.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\LayoutExer.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\LayoutExer.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\LayoutExer.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\refint\LayoutExer.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\LayoutExer.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\LayoutExer\LayoutExer\LayoutExer\obj\Debug\netstandard2.0\ref\LayoutExer.dll

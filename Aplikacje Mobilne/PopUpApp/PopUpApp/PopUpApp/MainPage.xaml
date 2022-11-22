@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PopUpApp.MainPage">
+
+    <StackLayout>
+        <Frame>
+            <Label Text="Przegląd okienek typu Pop-up" TextColor="Black" FontSize="26"/>
+        </Frame>
+        <Button x:Name="infoButton" Text="Info o programie" Clicked="InfoButton_Clicked"/>
+
+        <Button Text="Czy lubisz programowanie" x:Name="checkMoron" Clicked="CheckIfMoron_Clicked"/>
+        <Label Text="" x:Name="moronLable" HorizontalOptions="Center" FontSize="16"/>
+
+        <Button Text="Wybierz ulubiony język" x:Name="sendFromButton" Clicked="FavLanguageButton_Clicked"/>
+        <Label Text="" x:Name="languageLable" HorizontalOptions="Center" FontSize="16"/>
+
+        <Button Text="ćwiczenie z dodawania" Clicked="GameButton_Clicked"/>
+        <Label Text="Punkty: 0" x:Name="scoreLable" HorizontalOptions="Center" FontSize="16" TextColor="Blue"/>
+
+        <Button Text="Czy przestępny" Clicked="Button_Clicked"/>
+
+
+
+    </StackLayout>
+
+</ContentPage>
