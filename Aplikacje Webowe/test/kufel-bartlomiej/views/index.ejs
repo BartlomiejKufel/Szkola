@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strona główna</title>
+</head>
+<body>
+    <h1>Lista zadań</h1>
+    <h2>Dodaj nowe zadania</h2>
+
+    <form action="/" method="post">
+        Nazwa zadania: <input type="text" name="name"><br>
+        Ważne <input type="checkbox" name="important"><br>
+        <input type="submit" value="Dodaj zadanie do listy">
+    </form>
+
+    <hr>
+
+    <% array.forEach(e => { %>
+        <% if (e.import) { %>
+            <div style="border: 3px solid red; margin: 4px;">
+                <p><%= e.name  %> </p>
+            </div>
+            
+        <% }else{ %>
+            <div style="border: 3px solid black; margin: 4px;">
+                <p><%= e.name  %> </p>
+            </div>
+
+
+    <% }}) %>
+</body>
+</html>
