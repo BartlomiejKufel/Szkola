@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\bin\Debug\net6.0\Csharp_rs3.exe
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\bin\Debug\net6.0\Csharp_rs3.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\bin\Debug\net6.0\Csharp_rs3.runtimeconfig.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\bin\Debug\net6.0\Csharp_rs3.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\bin\Debug\net6.0\Csharp_rs3.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\Csharp_rs3.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\Csharp_rs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\Csharp_rs3.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\Csharp_rs3.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\Csharp_rs3.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\Csharp_rs3.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\refint\Csharp_rs3.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\Csharp_rs3.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\Csharp_rs3.genruntimeconfig.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Csharp_rs3\Csharp_rs3\obj\Debug\net6.0\ref\Csharp_rs3.dll
