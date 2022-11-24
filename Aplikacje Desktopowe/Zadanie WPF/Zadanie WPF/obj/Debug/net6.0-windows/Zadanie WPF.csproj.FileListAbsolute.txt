@@ -1,0 +1,21 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\bin\Debug\net6.0-windows\Zadanie WPF.exe
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\bin\Debug\net6.0-windows\Zadanie WPF.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\bin\Debug\net6.0-windows\Zadanie WPF.runtimeconfig.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\bin\Debug\net6.0-windows\Zadanie WPF.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\bin\Debug\net6.0-windows\Zadanie WPF.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF_MarkupCompile.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF_MarkupCompile.lref
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF.g.resources
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\refint\Zadanie WPF.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\Zadanie WPF.genruntimeconfig.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\Zadanie WPF\Zadanie WPF\obj\Debug\net6.0-windows\ref\Zadanie WPF.dll
