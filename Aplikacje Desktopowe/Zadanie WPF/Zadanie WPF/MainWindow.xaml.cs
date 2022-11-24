@@ -116,6 +116,12 @@ namespace Zadanie_WPF
 
             moves++;
 
+            if (CheckForWinX(gameBoard))
+            {
+                MessageBox.Show("Wygrał X", "Ok");
+                this.Close();
+            }
+
             if (moves >= 9)
                 MessageBox.Show("Skończyły się ruchy", "OK");
             else
@@ -148,11 +154,7 @@ namespace Zadanie_WPF
                 moves++;
             }
 
-            if (CheckForWinX(gameBoard))
-            {
-                MessageBox.Show("Wygrał X", "Ok");
-                this.Close();
-            }
+            
 
             if (CheckForWinO(gameBoard))
             {
