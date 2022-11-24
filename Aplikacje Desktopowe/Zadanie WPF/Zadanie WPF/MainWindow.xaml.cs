@@ -118,12 +118,16 @@ namespace Zadanie_WPF
 
             if (CheckForWinX(gameBoard))
             {
-                MessageBox.Show("Wygrał X", "Ok");
+                MessageBox.Show("Wygrał X", "");
                 this.Close();
+                return;
             }
 
             if (moves >= 9)
-                MessageBox.Show("Skończyły się ruchy", "OK");
+            {
+                MessageBox.Show("Skończyły się ruchy", "");
+                this.Close();
+            }
             else
             {
                 Random random = new Random();
@@ -158,7 +162,7 @@ namespace Zadanie_WPF
 
             if (CheckForWinO(gameBoard))
             {
-                MessageBox.Show("Wygrał O", "Ok");
+                MessageBox.Show("Wygrał O", "");
                 this.Close();
             }
 
