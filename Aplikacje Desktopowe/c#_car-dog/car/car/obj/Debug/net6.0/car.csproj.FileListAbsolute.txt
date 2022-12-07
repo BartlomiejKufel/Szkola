@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\bin\Debug\net6.0\car.exe
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\bin\Debug\net6.0\car.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\bin\Debug\net6.0\car.runtimeconfig.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\bin\Debug\net6.0\car.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\bin\Debug\net6.0\car.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\car.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\car.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\car.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\car.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\car.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\refint\car.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\car.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\car.genruntimeconfig.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\c#_car-dog\car\car\obj\Debug\net6.0\ref\car.dll

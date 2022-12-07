@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Samochod sm = new Samochod("Mercedes", 650, 220, 6.0);
+            sm.Jedz(220, 40);
+            
         }
     }
 }

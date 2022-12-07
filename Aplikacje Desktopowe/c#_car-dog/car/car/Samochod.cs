@@ -23,7 +23,17 @@ namespace car
 
         public void Jedz(double jakSzybko, double jakDaleko)
         {
+            if (jakSzybko > predkosc_max)
+            {
+                Console.WriteLine("Nie można jechać tak szybko.");
+                return;
+            }
+            //zużyte paliwo / trasa * 100
+            double ileSpali = jakDaleko/zuzycie_paliwa * 100
+            double ileTankować = poj_baku / ileSpali;
 
+            Console.WriteLine($"Auto będzie jechało z prędkością {jakSzybko} km/h.");
+            Console.WriteLine($"Będzie trzeba tankować {ileTankować}.");
         }
         
 
