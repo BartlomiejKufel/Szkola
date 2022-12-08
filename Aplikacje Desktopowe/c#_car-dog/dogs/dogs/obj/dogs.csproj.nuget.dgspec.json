@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\car\\car\\car.csproj": {}
+    "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\dogs\\dogs\\dogs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\car\\car\\car.csproj": {
+    "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\dogs\\dogs\\dogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\car\\car\\car.csproj",
-        "projectName": "car",
-        "projectPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\car\\car\\car.csproj",
+        "projectUniqueName": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\dogs\\dogs\\dogs.csproj",
+        "projectName": "dogs",
+        "projectPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\dogs\\dogs\\dogs.csproj",
         "packagesPath": "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\car\\car\\obj\\",
+        "outputPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\dogs\\dogs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kufel.bartlomiej.ptb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -52,6 +52,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
