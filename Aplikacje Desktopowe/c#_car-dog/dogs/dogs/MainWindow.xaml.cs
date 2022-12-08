@@ -24,5 +24,12 @@ namespace dogs
         {
             InitializeComponent();
         }
+
+        private void RadioButton_Checked(object sender, RoutedEventArgs e)
+        {
+            var radio = sender as RadioButton;
+            string? name = radio.Content.ToString();
+            personLable.Text = name;
+        }
     }
 }
