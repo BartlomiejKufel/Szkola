@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\refint\ListView.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\ListView\ListView\ListView\obj\Debug\netstandard2.0\ref\ListView.dll
