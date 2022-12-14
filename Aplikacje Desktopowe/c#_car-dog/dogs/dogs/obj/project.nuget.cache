@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVGE5jVlDONyRamQLnWwDNtxVTlhfS9zYUEc/5aFNnx0xaYEOIokibwMX6K0Zo+OtztYUwFKRLpqVEhdpjX4dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\c#_car-dog\\dogs\\dogs\\dogs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

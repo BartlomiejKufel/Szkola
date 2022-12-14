@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PickerApp.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="mainColor">Teal</Color>
+            
+            <Style TargetType="Frame" x:Key="headerFrame">
+                <Setter Property="BackgroundColor" Value="{StaticResource mainColor}"/>
+                <Setter Property="Margin" Value="0,10"/>
+                <Setter Property="CornerRadius" Value="100"/>
+            </Style>
+
+            <Style TargetType="Label" x:Key="headerLable">
+                <Setter Property="FontSize" Value="Large"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+
+            <Style TargetType="StackLayout" x:Key="controlStackLayout">
+                <Setter Property="Orientation" Value="Horizontal"/>
+                <Setter Property="BackgroundColor" Value="#a9ffff"/>
+            </Style>
+
+            <Style TargetType="Label" x:Key="controlLable">
+                <Setter Property="FontSize" Value="Large"/>
+                <Setter Property="VerticalTextAlignment" Value="Center"/>
+                <Setter Property="Padding" Value="10,2"/>
+            </Style>
+
+            <Style TargetType="Entry" x:Key="controlEntry">
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+            </Style>
+
+            <Style TargetType="Picker" x:Key="controlPicker">
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+            </Style>
+
+            <Style TargetType="Button" x:Key="controlButton">
+                <Setter Property="FontSize" Value="Large"/>
+                <Setter Property="Padding" Value="0,10"/>
+                <Setter Property="Margin" Value="20,10"/>
+            </Style>
+
+            <Style TargetType="Label" x:Key="resultLable">
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="FontSize" Value="36"/>
+            </Style>
+
+        </ResourceDictionary>    
+    </ContentPage.Resources>
+    
+    
+    <StackLayout Margin="20,0" VerticalOptions="Center">
+        <Frame Style="{StaticResource headerFrame}">
+            <Label Text="Kalkulator Podróży" Style="{StaticResource headerLable}"/>
+        </Frame>
+
+        <StackLayout Style="{StaticResource controlStackLayout}">
+            <Label Text="Dystans [km]" Style="{StaticResource controlLable}"/>
+            <Entry Style="{StaticResource controlEntry}" x:Name="distanceEntry"/>
+        </StackLayout>
+
+        <StackLayout Style="{StaticResource controlStackLayout}">
+            <Label Text="Spalanie [l/100km]" Style="{StaticResource controlLable}"/>
+            <Entry Style="{StaticResource controlEntry}" x:Name="fuelUsageEntry"/>
+        </StackLayout>
+        
+        <StackLayout Style="{StaticResource controlStackLayout}">
+            <Label Text="Cena 1L benzyny [zł]" Style="{StaticResource controlLable}"/>
+            <Entry Style="{StaticResource controlEntry}" x:Name="gasCostEntry"/>
+        </StackLayout>
+
+        <StackLayout Style="{StaticResource controlStackLayout}">
+            <Label Text="Ilość osób" Style="{StaticResource controlLable}"/>
+            <Picker Style="{StaticResource controlPicker}" x:Name="peopleAmountPicker"/>
+        </StackLayout>
+
+        <Button Text="Oblicz" Style="{StaticResource controlButton}" Clicked="Button_Clicked"/>
+        <Label Text="Koszt: 0 zł" Style="{StaticResource resultLable}" x:Name="resultLable"/>
+
+    </StackLayout>
+
+</ContentPage>

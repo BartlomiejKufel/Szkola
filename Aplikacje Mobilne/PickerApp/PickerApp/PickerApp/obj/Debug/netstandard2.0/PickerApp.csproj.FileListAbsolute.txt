@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\bin\Debug\netstandard2.0\PickerApp.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\bin\Debug\netstandard2.0\PickerApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\bin\Debug\netstandard2.0\PickerApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\refint\PickerApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\PickerApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PickerApp\PickerApp\PickerApp\obj\Debug\netstandard2.0\ref\PickerApp.dll
