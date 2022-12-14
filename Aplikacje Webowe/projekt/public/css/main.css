@@ -1,0 +1,90 @@
+* {
+    font-family: Arial;
+}
+body {
+    margin: 0 10%;
+}
+header {
+    background-color: #ccc;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+nav {
+    background-color: #444;
+    padding: 10px;
+}
+nav a {
+    color: #ccc;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 5px 10px;
+}
+nav a:hover {
+    background-color: #222;
+    color: white;
+    padding: 5px 10px;
+
+}
+nav ul li {
+    list-style-type: none;
+    padding: 0 10px;
+}
+nav ul {
+    display: flex;
+}
+
+main{
+    background-color: #eee;
+    padding: 30px;
+}
+
+footer{
+    background-color: #444;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+hr{
+    border:0.5px solid orange;
+}
+
+form{
+    border: 3px solid orange;
+    background-color: rgb(250, 228, 187);
+    padding: 20px 20px;
+    margin: 20px 0px;
+    border-radius: 20px;
+    width: 400px;
+}
+
+.control{
+    margin: 20px 0px;
+}
+
+input[type="checkbox"] {
+    accent-color: orange; 
+}
+
+.status{
+    margin: 0;
+    text-align: center;
+}
+
+table{
+    border: 2px solid orange;
+    background-color: rgb(250, 228, 187);
+    margin: 20px 0px;
+    border-spacing: 0;
+    padding: 0;
+    width: 700px;
+}
+
+td,th{
+    border-spacing: 0;
+    border: 2px solid orange;
+    border-spacing: 0;
+    padding: 10px;
+}

@@ -1,0 +1,67 @@
+<%- include('./includes/header.ejs') %> 
+<%- include('./includes/navigation.ejs') %> 
+    
+
+    <main>
+        <div>
+            <h2>Dodaj użytkownika</h2>
+                
+            <form action="/users" method="post">
+                <div class="control">
+                    <label for="firstname">Imię</label>
+                    <input type="text" name="firstname" id="firstname" required>
+                </div>
+
+                <div class="control">
+                    <label for="lastname">Nazwisko</label>
+                    <input type="text" name="lastname" id="lastname" required>
+                </div>
+                
+                <div class="control">
+                    <label for="birthdate">Data urodzenia</label>
+                    <input type="date" name="birthdate" id="birthdate" required>
+                </div>
+
+                <div class="control">
+                    <label for="active">Konto aktywny</label>
+                    <input type="checkbox" name="active" id="active">
+                </div>
+                
+                <input type="submit" value="Dodaj użytkownika">
+            </form>
+        </div>
+
+        <div">
+            <h2>Użytkownicy</h2>
+            <% if (users.length===0) { %>
+                <p>BRAK UŻYTKOWNIKÓW</p>
+            <% }else{ %>
+                <table>
+                    <tr>
+                        <th>Imię</th>
+                        <th>Nazwisko</th>
+                        <th>Wiek</th>
+                        <th>Aktywny</th>
+                    </tr>
+                    <% users.forEach(user => { %>
+                        <tr>
+                            <td><%= user.firstname  %> </td>
+                            <td><%= user.lastname  %></td>
+                            <td style="text-align: center;"><%= new Date().getFullYear() - new Date(user.birthdate).getFullYear() %> </td>
+                            <td><% if (user.active) { %>
+                                <p class="status" style="color: green;">Aktywny</p>
+                            <% }else{ %>
+                                <p class="status" style="color: red;">Nie Aktywny</p>
+                            <% } %></td> 
+                        </tr>    
+                    <% }) %>
+                    
+
+                </table>
+            <% } %> 
+        </div>
+    </main>
+    
+    
+<%- include('./includes/footer.ejs') %> 
+    
