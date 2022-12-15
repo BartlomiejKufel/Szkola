@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cSharp_p_wpf/1.0.0": {
+        "runtime": {
+          "cSharp_p_wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cSharp_p_wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
