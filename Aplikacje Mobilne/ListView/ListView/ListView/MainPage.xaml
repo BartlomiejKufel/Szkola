@@ -11,15 +11,35 @@
                    TextColor="White"/>
         </Frame>
         <Button Text="Dodaj nowego urzytkownika" x:Name="addUser" Clicked="addUser_Clicked" Margin="10,5"/>
-        <ListView x:Name="usersListView">
+        <ListView x:Name="usersListView"
+                  IsPullToRefreshEnabled="True"
+                  Refreshing="usersListView_Refreshing"
+                  SelectionMode="None"
+                  Margin="10,0">
+            
+            
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="{Binding Name}"/>
-                            <Label Text="{Binding Email}" HorizontalOptions="EndAndExpand"/>
-                        </StackLayout>
-                    </ViewCell>
+                    <TextCell Text="{Binding Name}"
+                              Detail="{Binding Email}">
+                        <TextCell.ContextActions >
+                            <MenuItem Text="Więcej"
+                                      CommandParameter="{Binding .}"
+                                      x:Name="moreMenuItem"
+                                      Clicked="moreMenuItem_Clicked"/>
+                            <MenuItem Text="Usuń"
+                                      CommandParameter="{Binding .}"
+                                      x:Name="deleteMenuItem"
+                                      Clicked="deleteMenuItem_Clicked"
+                                      IsDestructive="True"/>
+                            <MenuItem Text="Edytuj"
+                                      CommandParameter="{Binding .}"
+                                      x:Name="editMenuItem"
+                                      Clicked="editMenuItem_Clicked"/>
+                                      
+
+                        </TextCell.ContextActions>
+                    </TextCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
