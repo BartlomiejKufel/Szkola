@@ -1,0 +1,42 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\bin\Debug\net6.0-windows\binding.exe
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\bin\Debug\net6.0-windows\binding.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\bin\Debug\net6.0-windows\binding.runtimeconfig.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\bin\Debug\net6.0-windows\binding.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\bin\Debug\net6.0-windows\binding.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding_MarkupCompile.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding_MarkupCompile.lref
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding.g.resources
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\refint\binding.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\binding.genruntimeconfig.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\binding\binding\obj\Debug\net6.0-windows\ref\binding.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\bin\Debug\net6.0-windows\binding.exe
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\bin\Debug\net6.0-windows\binding.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\bin\Debug\net6.0-windows\binding.runtimeconfig.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\bin\Debug\net6.0-windows\binding.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\bin\Debug\net6.0-windows\binding.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding_MarkupCompile.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding_MarkupCompile.lref
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding.g.resources
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\refint\binding.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\binding.genruntimeconfig.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\binding\binding\obj\Debug\net6.0-windows\ref\binding.dll

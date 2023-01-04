@@ -1,0 +1,41 @@
+﻿<Window x:Class="binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:binding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+            <TextBlock Text="Rozmiar" FontSize="30" HorizontalAlignment="Left"/>
+            <Slider x:Name="rozmiarTekstu" Minimum="20" Value="20" Maximum="80" Grid.Row="0" HorizontalAlignment="Right" Width="600"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Grid.Row="1">
+            <TextBlock Text="Kolor" FontSize="30" HorizontalAlignment="Left"/>
+            <ComboBox x:Name="colorPalet">
+                <ComboBoxItem>Red</ComboBoxItem>
+                <ComboBoxItem>Green</ComboBoxItem>
+                <ComboBoxItem>Blue</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <TextBlock Text="Tekst" FontSize="30" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <TextBox x:Name="inputText" Height="40" Width="400"  HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <TextBlock Foreground="{Binding Path=Text,ElementName=colorPalet}" Grid.Row="3" FontSize="{Binding Path=Value, ElementName=rozmiarTekstu}" Text="{Binding Path=Text, ElementName=inputText}"/>
+
+    </Grid>
+</Window>
