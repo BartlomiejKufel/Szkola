@@ -1,0 +1,32 @@
+<%- include('./includes/header.ejs') %> 
+<%- include('./includes/navigation.ejs') %> 
+    
+
+    <main>
+        <% if (user.active) { %>
+            <h3 class="status" style="color: green;">Status konta: Aktywny</h3>
+        <% }else{ %>
+            <h3 class="status" style="color: red;">Status konta: Nie Aktywny</h3>
+        <% } %>
+        <div>
+            <h2><%= user.firstname  %> <%= user.lastname  %> </h2>
+            <% if (user.sex === "Inne") { %>
+                <img src="/img/blank-icon.png" alt="blank" class="icon">
+            <% }else if(user.sex ==="Mężczyzna"){%>
+                <img src="/img/male-icon.png" alt="male" class="icon">
+            <% }else {%>
+                <img src="/img/female-icon.png" alt="female" class="icon">
+            <% } %> 
+
+            <h3>Data urodzenia: <%= user.birthdate.toLocaleDateString() %></h3>
+            <h3>Data dołączenia: <%= user.joinDate.toLocaleDateString() %></h3>
+            <h3>Płeć: <%= user.sex %></h3>
+            
+        </h2>
+            
+        </div>
+    </main>
+    
+    
+<%- include('./includes/footer.ejs') %> 
+    

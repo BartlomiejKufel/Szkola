@@ -1,0 +1,41 @@
+<%- include('./includes/header.ejs') %> 
+<%- include('./includes/navigation.ejs') %> 
+    
+
+    <main>
+        <div>
+            <h2>Edycja użytkownika</h2>
+                
+            <form action="/update" method="post" class="addForm">
+                <div class="control">
+                    <label for="firstname">Imię</label>
+                    <input type="text" name="firstname" id="firstname" required value="<%= user.firstname %> ">
+                </div>
+
+                <div class="control">
+                    <label for="lastname">Nazwisko</label>
+                    <input type="text" name="lastname" id="lastname" required value="<%= user.lastname %>">
+                </div>
+                
+                <div class="control">
+                    <label for="birthdate">Data urodzenia</label>
+                    <input type="date" name="birthdate" id="birthdate"  value="<%= birthdateStr %>" required>
+                </div>
+
+                <div class="control">
+                    <label for="active">Konto aktywny</label>
+                    <input type="checkbox" name="active" id="active" <%= user.active ? "checked" : "" %> >
+                </div>
+                
+                <input type="hidden" name="userId" value="<%= user.id %>">
+                <button type="submit">Anuluj</button>
+                <button type="submit" value="applyBtn" name="applyBtn">Zatwierdź zmiany</button>
+
+            </form>
+        </div>
+
+    </main>
+    
+    
+<%- include('./includes/footer.ejs') %> 
+    
