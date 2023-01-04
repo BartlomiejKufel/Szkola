@@ -26,7 +26,15 @@
                     <label for="active">Konto aktywny</label>
                     <input type="checkbox" name="active" id="active" <%= user.active ? "checked" : "" %> >
                 </div>
-                
+
+                <div class="control">
+                    <label for="active">Płeć</label><br>
+                    <label><input type="radio" name="sex" value="M"<%= user.sex ==="Mężczyzna"? "checked":"" %> >Mężczyzna</label><br>
+                    <label><input type="radio" name="sex" value="K"<%= user.sex ==="Kobieta"? "checked":"" %>>Kobieta</lable><br>
+                    <label><input type="radio" name="sex" value="I"<%= user.sex ==="Inne"? "checked":"" %>>Inne</lable>
+
+                </div>
+
                 <input type="hidden" name="userId" value="<%= user.id %>">
                 <button type="submit">Anuluj</button>
                 <button type="submit" value="applyBtn" name="applyBtn">Zatwierdź zmiany</button>

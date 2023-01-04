@@ -92,6 +92,15 @@ router.post('/update', async(req,res)=>{
     if(applyBtn === undefined){
         res.redirect('/users')
     }
+    const sex = req.body.sex;
+    let gender = ""
+    switch (sex) {
+        case "M": gender= "Mężczyzna"; break;
+        case "K": gender= "Kobieta"; break;
+    
+        default: gender = "Inne" 
+            break;
+    }
     
     const id = req.body.userId
     const editedUser ={
@@ -99,6 +108,7 @@ router.post('/update', async(req,res)=>{
         lastname: req.body.lastname,
         birthdate: new Date(req.body.birthdate),
         active: req.body.active ==="on" ? true : false,
+        sex: gender
     } 
 
     try {
