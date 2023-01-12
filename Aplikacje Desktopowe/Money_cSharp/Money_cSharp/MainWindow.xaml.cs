@@ -27,7 +27,6 @@ namespace Money_cSharp
         {
             InitializeComponent();
         }
-        /*
         private void Currency_Change(object sender, RoutedEventArgs e)
         {
             myCurrency = true;
@@ -37,12 +36,31 @@ namespace Money_cSharp
                 return;
             }
 
-            string ciąg = ownCurrency.Text;
+            string ciag = ownCurrency.Text;
 
-            ciąg = "";
-            MessageBox.Show($"[{ciąg.Trim()}]");
+            ciag = string.Join("", ciag.Split(default(string[]), StringSplitOptions.RemoveEmptyEntries));
+            int count = ciag.Count(f => f == ',')+1;
+            double[] tab = new double[count];
 
-        }*/
+            int place = -1;
+            for(int i = 0; i<count; i++)
+            {
+                string tmp = "";
+                for(int j = place+1; j<ciag.Length; j++)
+                {
+                    place++;
+                    char c = ciag[j];
+
+                    if (c == ',')
+                        break;
+
+                    tmp += c;
+                }
+
+                double.TryParse(tmp, out tab[i]);
+            }
+            currency = tab;
+        }
 
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -53,7 +71,8 @@ namespace Money_cSharp
 
             if (money <= 0)
                 return;
-
+            
+            double check = 0, doubleCheck = money;
 
             for (int i = 0; i < currency.Length; i++)
             {
@@ -68,7 +87,12 @@ namespace Money_cSharp
 
                 if (money == 0)
                     return;
+
+                check += tmp * currency[i];
             }
+
+            if (check != doubleCheck)
+                MessageBox.Show("Suma nominałów nie jest równa kwocie do wydania.");
         }
     }
 }

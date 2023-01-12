@@ -28,6 +28,7 @@
             <Label Content="Podaj kwotę do wydania:" FontSize="13" HorizontalAlignment="Left" VerticalAlignment="Center"/>
             <TextBox x:Name="moneyInput" Width="200" Height="22" FontSize="13" VerticalAlignment="Center" HorizontalAlignment="Center"/>
             <Button Click="Button_Click" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="12" Content="Wpłać" Margin="2,0,0,0" Padding="3"/>
+            <TextBlock Text="{Binding Path=Text, ElementName=moneyInput}" Width="40" VerticalAlignment="Center" Margin="3,0,0,0" TextAlignment="Center"/>
         </StackPanel>
         
         <StackPanel Grid.Row="2">
