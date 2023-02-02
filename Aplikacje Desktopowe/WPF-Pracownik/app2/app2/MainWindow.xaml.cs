@@ -23,8 +23,27 @@ namespace app2
         public MainWindow()
         {
             InitializeComponent();
+            outputBox.Text = Price().ToString();
+
+
+            numberOfPeople.ValueChanged += NumberOfPeople_ValueChanged;
+            decorationsCheckBox.Checked += CheckBox_Event;
+            decorationsCheckBox.Unchecked +=CheckBox_Event;
+            healthCheckBox.Checked += CheckBox_Event;
+            healthCheckBox.Unchecked += CheckBox_Event;
+
         }
 
+        private void CheckBox_Event(object sender, RoutedEventArgs e)
+        {
+            outputBox.Text = Price().ToString();
+        }
+
+        private void NumberOfPeople_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
+        {
+            outputBox.Text = Price().ToString();
+
+        }
 
         private double Price()
         {
@@ -55,9 +74,9 @@ namespace app2
 
         }
 
-        private void numberOfPeople_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
+        private void decorationsCheckBox_Checked(object sender, RoutedEventArgs e)
         {
-            outputBox.Text = Price().ToString();
+
         }
     }
 }
