@@ -17,16 +17,25 @@
 
         <StackPanel Grid.Row="0" >
             <TextBlock Text="Początkowa wartość licznika: " HorizontalAlignment="Center" VerticalAlignment="Top"/>
-            <TextBlock Text="{Binding Path=Value, ElementName=sliderStart}" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <TextBlock x:Name="inputStart" Text="{Binding Path=Value, StringFormat=N0, ElementName=sliderStart}" HorizontalAlignment="Center" VerticalAlignment="Top"/>
             <Slider x:Name="sliderStart" TickFrequency="1" Maximum="300" Minimum="0"  Width="250" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
 
         </StackPanel>
 
         <StackPanel  Grid.Row="1">
             <TextBlock Text="Końcowa wartość licznika:" HorizontalAlignment="Center" VerticalAlignment="Top"/>
-            <TextBlock Text="{Binding Path=Value, ElementName=sliderEnd}" HorizontalAlignment="Center" VerticalAlignment="Top"/>
-            <Slider x:Name="sliderEnd" Maximum="300" Minimum="1" Width="250" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+            <TextBlock x:Name="inputEnd" Text="{Binding Path=Value, StringFormat=N0, ElementName=sliderEnd}" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <Slider x:Name="sliderEnd" Maximum="301" Minimum="1" Width="250" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+        </StackPanel>
 
+        <StackPanel Grid.Row="2" Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <TextBlock Text="Pieniądze do zwrotu: "  FontSize="15"/>
+            <TextBlock x:Name="outputText" Text="0"  FontSize="15"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content=" Oblicz " Click="Button_Click"/>
+            <Button Margin="10,0,0,0" Content="Pokaż odległość" Click="Button_Click_1"/>
         </StackPanel>
         
 

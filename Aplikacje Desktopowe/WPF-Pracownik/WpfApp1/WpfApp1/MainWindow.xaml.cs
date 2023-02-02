@@ -24,5 +24,50 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+
+        private int road()
+        {
+            int.TryParse(inputEnd.Text, out int end);
+            int.TryParse(inputStart.Text, out int start);
+
+            return end - start;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            int distance = road();
+
+            if (distance < 0)
+            {
+                MessageBox.Show("Błąd, podano złe wartości");
+                return;
+            }
+
+            double ret = 0.39 * distance;
+
+            outputText.Text = ret.ToString();
+
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            int distance = road();
+
+            if (distance < 0)
+            {
+                MessageBox.Show("Błąd, podano złe wartości");
+                return;
+            }
+
+            if (distance == 1)
+            {
+                MessageBox.Show($"{distance} kilometr");
+                return;
+            }
+
+            MessageBox.Show($"{distance} kilometrów");
+
+        }
     }
 }
