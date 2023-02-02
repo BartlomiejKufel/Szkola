@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kpc+TzCtlawp7fXNW2jO/kTSsrF6w5cnFsz7uSqVneHajrHI8MxIM9CsKiEjT3TwPDOdHiTQYVAREqHil2jNAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\WPF-Pracownik\\app2\\app2\\app2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
