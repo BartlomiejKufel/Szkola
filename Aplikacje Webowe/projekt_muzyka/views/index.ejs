@@ -1,0 +1,28 @@
+<%- include('./includes/header.ejs') %> 
+    
+
+    <div>
+        <% songs.forEach(e => { %>
+            <div class="songBlock">
+                <h2><%= e.title  %> </h2>
+                <p><%= e.band  %></p>
+                <p><%= e.publicationYear %></p>    
+                <p><%= e.country  %></p>
+                <br>
+
+                <form action="/edit" method="post">
+                    <input type="hidden" name="songId" value="<%= e.id %>">
+                    <input type="submit" value="Edytuj">
+                </form>
+
+                <form action="/delete" method="post">
+                    <input type="hidden" name="songId" value="<%= e.id %>">
+                    <input type="submit" value="Usuń">
+                </form>
+            </div>
+        <% }) %>
+    </div>
+    
+
+
+<%- include('./includes/footer.ejs')  %>

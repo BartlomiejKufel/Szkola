@@ -6,12 +6,13 @@
         xmlns:local="clr-namespace:app2"
         xmlns:toolkit="http://schemas.xceed.com/wpf/xaml/toolkit"
         mc:Ignorable="d"
-        Title="MainWindow" Height="250" Width="200">
+        Title="MainWindow" Height="450" Width="200">
     <Grid Margin="7,4">
         <Grid.RowDefinitions>
+            <RowDefinition Height="0.4*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
             <RowDefinition Height="0.6*"></RowDefinition>
-            <RowDefinition Height="0.9*"></RowDefinition>
-            <RowDefinition Height="0.7*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
         </Grid.RowDefinitions>
 
         <StackPanel Grid.Row="0">
@@ -26,7 +27,11 @@
 
         <StackPanel Grid.Row="2" Orientation="Horizontal" VerticalAlignment="Center">
             <TextBlock Text="Koszt" Margin="10,0"/>
-            <TextBox Text="" Width="80" TextAlignment="Left" x:Name="outputBox" />
+            <TextBox Text="" Width="80" TextAlignment="Left" x:Name="outputBox" IsReadOnly="True"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3">
+            <ListBox Height="150" x:Name="resultListBox" />
         </StackPanel>
 
     </Grid>

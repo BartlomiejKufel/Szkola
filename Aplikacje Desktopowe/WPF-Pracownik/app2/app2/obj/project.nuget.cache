@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Kpc+TzCtlawp7fXNW2jO/kTSsrF6w5cnFsz7uSqVneHajrHI8MxIM9CsKiEjT3TwPDOdHiTQYVAREqHil2jNAA==",
+  "dgSpecHash": "ZnV/RNvJYZgqb6Uwd8rQ0npx8+rQ9K3IgALzO+Zc0fBt6U6QKLPNUpmP86lfFpx62tfaUeCj4H/VcGBX1KAr3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Desktopowe\\WPF-Pracownik\\app2\\app2\\app2.csproj",
+  "projectFilePath": "C:\\Users\\joloc\\Desktop\\pliki zst\\Szkola\\Aplikacje Desktopowe\\WPF-Pracownik\\app2\\app2\\app2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+    "C:\\Users\\joloc\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

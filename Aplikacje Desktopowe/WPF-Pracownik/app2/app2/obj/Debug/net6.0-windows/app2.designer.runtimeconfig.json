@@ -12,8 +12,9 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\kufel.bartlomiej.ptb\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages"
+      "C:\\Users\\joloc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\joloc\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

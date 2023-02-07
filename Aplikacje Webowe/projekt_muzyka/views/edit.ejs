@@ -1,0 +1,29 @@
+<div class="addForm">
+    <form method="post" action="/">
+        <h3>Dodaj nową piosenkę</h3>
+        <div class="control">
+            <label for="title">Tytuł</label>
+            <input type="text" name="title" id="title" required value="<%= song.title  %> ">
+        </div>
+
+        
+        <div class="control">
+            <label for="band">Wykonawca</label>
+            <input type="text" name="band" id="band" required value="<%= song.band  %> ">
+        </div>
+
+        <div class="control">
+            <label for="publicationYear">Rok wydania</label>
+            <input type="number" name="publicationYear" id="publicationYear" value=<%= song.publicationYear %> required>
+        </div>
+
+        <div class="control">
+            <label for="country">Kraj wykonawcy</label>
+            <input type="text" name="country" id="country" value="<%= song.country  %> " required>
+        </div>
+
+        <input type="reset">
+        <input type="submit" value="Zapisz">
+
+    </form>
+</div>    
