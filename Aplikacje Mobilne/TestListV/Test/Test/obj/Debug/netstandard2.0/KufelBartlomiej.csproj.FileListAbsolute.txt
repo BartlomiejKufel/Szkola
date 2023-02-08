@@ -1,0 +1,30 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\bin\Debug\netstandard2.0\KufelBartlomiej.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\bin\Debug\netstandard2.0\KufelBartlomiej.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\bin\Debug\netstandard2.0\KufelBartlomiej.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\refint\KufelBartlomiej.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\ref\KufelBartlomiej.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\bin\Debug\netstandard2.0\KufelBartlomiej.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\bin\Debug\netstandard2.0\KufelBartlomiej.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\bin\Debug\netstandard2.0\KufelBartlomiej.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\refint\KufelBartlomiej.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\KufelBartlomiej.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\KufelBartlomiej\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\ref\KufelBartlomiej.dll

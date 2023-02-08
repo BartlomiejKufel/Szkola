@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\bin\Debug\netstandard2.0\Test.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\bin\Debug\netstandard2.0\Test.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\bin\Debug\netstandard2.0\Test.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\Test.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\Test.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\Test.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\Test.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\refint\Test.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\Test.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TestListV\KufelBartlomiej\KufelBartlomiej\obj\Debug\netstandard2.0\ref\Test.dll
