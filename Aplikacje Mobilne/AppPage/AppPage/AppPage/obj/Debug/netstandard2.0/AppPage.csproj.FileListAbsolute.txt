@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\bin\Debug\netstandard2.0\AppPage.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\bin\Debug\netstandard2.0\AppPage.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\bin\Debug\netstandard2.0\AppPage.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\AppPage.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\AppPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\AppPage.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\AppPage.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\AppPage.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\AppPage.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\refint\AppPage.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\AppPage.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\AppPage\AppPage\AppPage\obj\Debug\netstandard2.0\ref\AppPage.dll
