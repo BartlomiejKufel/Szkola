@@ -1,0 +1,33 @@
+﻿<Window x:Class="app3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:app3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.7*"></RowDefinition>
+            <RowDefinition Height="0.7*"></RowDefinition>
+            <RowDefinition Height="0.4*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" VerticalAlignment="Center">
+            <Label Content="A"/>
+            <TextBox x:Name="aInput" Width="200"/>
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center">
+            <Label Content="B"/>
+            <TextBox x:Name="bInput" Width="200"/>
+        </StackPanel>
+
+        <Button Grid.Row="2" VerticalAlignment="Center" Content="Wypisz" HorizontalAlignment="Center" Padding="10"  Click="Button_Click"/>
+        <ListBox Grid.Row="3" x:Name="resultListBox">
+            
+        </ListBox>
+    </Grid>
+</Window>
