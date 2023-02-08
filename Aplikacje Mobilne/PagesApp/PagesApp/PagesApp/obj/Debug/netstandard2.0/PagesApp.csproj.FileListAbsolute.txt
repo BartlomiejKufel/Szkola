@@ -1,0 +1,16 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\PagesApp.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\PagesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\PagesApp.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\PagesApp.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\PagesApp.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\bin\Debug\netstandard2.0\PagesApp.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\bin\Debug\netstandard2.0\PagesApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\bin\Debug\netstandard2.0\PagesApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\PagesApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\refint\PagesApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\PagesApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\ref\PagesApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\PagesApp\PagesApp\PagesApp\obj\Debug\netstandard2.0\ResultPage.xaml.g.cs
