@@ -14,10 +14,12 @@ namespace Rachunek
         {
             InitializeComponent();
         }
-
-        private void Button_Clicked(object sender, EventArgs e)
+        
+        private async void Button_Clicked(object sender, EventArgs e)
         {
+            double litry = literSlider.Value;
 
+            await Navigation.PushAsync(new BillPage());
         }
     }
 }

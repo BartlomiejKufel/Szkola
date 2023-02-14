@@ -12,9 +12,20 @@ namespace Rachunek
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class BillPage : ContentPage
     {
+        private double cena =0;
+        private double litry =0;
         public BillPage()
         {
             InitializeComponent();
+        }
+
+        public BillPage(double cena, double ilosc)
+        {
+            InitializeComponent();
+
+            this.cena = cena;
+            litry = ilosc;
+            litryLable.Text = $"Ilość: {litry}";
         }
     }
 }

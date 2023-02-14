@@ -1,11 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Rachunek.BillPage">
+             x:Class="Rachunek.BillPage"
+             NavigationPage.HasNavigationBar="false">
     
-    <StackLayout>
+    <StackLayout Margin="30">
+        <Frame BorderColor="Black" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <StackLayout>
+                <Label x:Name="litryLable" Text="Ilość: "/>
+                <Label x:Name="cenaLable" Text="Cena za 1 Litr: "/>
+                <Label x:Name="cenaEndLable" Text="Cena końcowa: "/>
+                
+                
 
-        
-        
+            </StackLayout>
+        </Frame>
+
+
     </StackLayout>
 </ContentPage>
