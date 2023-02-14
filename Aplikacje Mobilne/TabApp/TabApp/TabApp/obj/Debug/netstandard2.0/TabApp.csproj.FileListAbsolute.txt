@@ -1,0 +1,17 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\bin\Debug\netstandard2.0\TabApp.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\bin\Debug\netstandard2.0\TabApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\bin\Debug\netstandard2.0\TabApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\TabApp.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\TabApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\TabApp.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\TabApp.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\TabApp.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\TabApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\refint\TabApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\TabApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\ref\TabApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\ContactPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\TabApp\TabApp\TabApp\obj\Debug\netstandard2.0\IndexPage.xaml.g.cs

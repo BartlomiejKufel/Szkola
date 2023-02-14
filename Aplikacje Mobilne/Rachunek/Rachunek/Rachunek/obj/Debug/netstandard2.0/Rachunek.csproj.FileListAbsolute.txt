@@ -1,0 +1,16 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\bin\Debug\netstandard2.0\Rachunek.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\bin\Debug\netstandard2.0\Rachunek.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\bin\Debug\netstandard2.0\Rachunek.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\Rachunek.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\Rachunek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\BillPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\Rachunek.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\Rachunek.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\Rachunek.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\Rachunek.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\refint\Rachunek.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\Rachunek.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Rachunek\Rachunek\Rachunek\obj\Debug\netstandard2.0\ref\Rachunek.dll

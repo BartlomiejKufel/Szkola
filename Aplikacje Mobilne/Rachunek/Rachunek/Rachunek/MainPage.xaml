@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Rachunek.MainPage">
+
+    <StackLayout>
+        <Frame Margin="0">
+            <Frame.Background>
+                <LinearGradientBrush EndPoint="0,0">
+                    <GradientStop Color="Red"
+                          Offset="0.1" />
+                    <GradientStop Color="Red"
+                          Offset="0.1" />
+                    <GradientStop Color="White"
+                          Offset="1.0" />
+                </LinearGradientBrush>
+            </Frame.Background>
+        <Label TextColor="White" HorizontalOptions="Center" Text="Dane do rachunku" FontSize="30" Margin="25"/>
+        </Frame>
+
+
+        <StackLayout Margin="5,20,5,30">
+            <Frame BorderColor="Black" Padding="30">
+                <StackLayout HorizontalOptions="Center" Orientation="Horizontal">
+                    <Switch x:Name="visSwitch"/>
+                    <Label VerticalOptions="Center" FontSize="Body" Text="Wyświetl Formularz"/>
+                </StackLayout>
+            </Frame>
+
+
+            <!--{Binding Source={x:Reference visSwitch}, Path=IsToggled}-->
+            <Frame Margin="0,50,0,0" BorderColor="Black" Padding="20" IsVisible="{Binding Source={x:Reference visSwitch}, Path=IsToggled}">
+                <StackLayout>
+                    <StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label FontSize="Body" Text="Litry"
+                               HorizontalOptions="Start"/>
+
+                            <Label FontSize="Body"
+                               HorizontalOptions="EndAndExpand"  
+                               Text="{Binding Source={x:Reference literSlider}, Path=Value, StringFormat='{0:F} L'}"/>
+                        </StackLayout>
+
+                        <Slider ThumbColor="Black"
+                            Maximum="100"
+                            Minimum="1"
+                            Value="35"
+                            x:Name="literSlider"/>
+
+                    </StackLayout>
+
+                    <StackLayout Margin="0,30,0,0">
+                        <Label Text="Cena rynkowa: 0,00 zł"
+                               FontSize="Large"
+                               x:Name="priceLable"
+                               HorizontalTextAlignment="Center"/>
+                    </StackLayout>
+
+                    <StackLayout Margin="0,30,0,0">
+                        <Button Text="Kupuję"
+                                Clicked="Button_Clicked"
+                            />
+                    </StackLayout>
+                    
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>
