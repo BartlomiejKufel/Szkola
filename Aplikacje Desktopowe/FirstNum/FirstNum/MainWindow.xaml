@@ -1,0 +1,28 @@
+﻿<Window x:Class="FirstNum.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FirstNum"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="250">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.8*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="Podaj pierwszą liczbę w przedziale"/>
+            <TextBox x:Name="startTextBox"/>
+
+            <TextBlock Text="Podaj pierwszą liczbę w przedziale"/>
+            <TextBox x:Name="endTextBox"/>
+
+            <Button Click="Button_Click" Content="Wyświetl"/>
+        </StackPanel>
+
+        <ListView Grid.Row="1" x:Name="outputListView">
+        </ListView>
+    </Grid>
+</Window>
