@@ -52,7 +52,6 @@ namespace PESEL_check
 
         }
 
-        //04303001098
 
 
 
