@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LocApp.LoginPage"
+             NavigationPage.HasNavigationBar="false">
+
+    <StackLayout Margin="10">
+
+        <StackLayout Margin="10,20,10,10">
+            <Image HeightRequest="250" Source="logo.png"/>
+        </StackLayout>
+
+
+        <StackLayout VerticalOptions="CenterAndExpand" Margin="20,0,20,0">
+            
+            <Label Text="Nazwa użytkownika"/>
+            <Entry x:Name="nameEntry" Margin="0,0,5,0"/>
+            <Label Text="Hasło"/>
+            <Entry x:Name="passwordEntry" Margin="0,0,5,0" IsPassword="True"/>
+
+            <StackLayout HeightRequest="50" Margin="0,10,0,50">
+                <Label x:Name="errorLable" IsVisible="false" Text="" TextColor="Red" HorizontalOptions="Center" FontSize="Medium" />
+            </StackLayout>
+            
+            <Button x:Name="loginButton" Clicked="loginButton_Clicked" Text="Zaloguj" />
+        </StackLayout>
+
+
+        
+
+    </StackLayout>
+
+</ContentPage>

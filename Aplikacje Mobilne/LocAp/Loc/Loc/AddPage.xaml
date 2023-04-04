@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LocApp.AddPage">
+    <StackLayout Margin="40" VerticalOptions="CenterAndExpand">
+        <Label Text="Miasto"/>
+        <Entry x:Name="nameEntry" Margin="0,0,5,0"/>
+        
+        <Label Text="Kraj"/>
+        <Entry x:Name="countryEntry" Margin="0,0,5,0" IsPassword="True"/>
+
+        <Label Text="Ocena"/>
+        <Entry x:Name="ratingEntry" Margin="0,0,5,0" IsPassword="True"/>
+
+        <Button Margin="20,100,20,0" Text="Dodaj" Clicked="Button_Clicked"/>
+    </StackLayout>            
+</ContentPage>
