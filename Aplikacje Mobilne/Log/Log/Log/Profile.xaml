@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Log.Profile">
+    <StackLayout Margin="20,0">
+        <Frame CornerRadius="200" Scale="0.8" Padding="0">
+            <Image Source="man_avatar.png" WidthRequest="300" HeightRequest="340"/>
+        </Frame>
+
+        <StackLayout Margin="50,0,50,200">
+            <Label Text="Jan Nowak" HorizontalOptions="Center" FontSize="40" TextColor="Black" />
+            <Label Text="uczeń klasy 3Tcg" HorizontalOptions="Center" FontSize="20"/>
+        </StackLayout>
+        
+        <Button BackgroundColor="red"
+                TextColor="White"
+                Text="Wyloguj"
+                x:Name="Logout"
+                Clicked="Logout_Clicked"/>
+        
+    </StackLayout>
+</ContentPage>

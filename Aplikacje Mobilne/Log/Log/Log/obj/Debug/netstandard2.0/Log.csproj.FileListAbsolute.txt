@@ -15,3 +15,5 @@ C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log\obj\D
 C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log\obj\Debug\netstandard2.0\refint\Log.dll
 C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log\obj\Debug\netstandard2.0\Log.pdb
 C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log\obj\Debug\netstandard2.0\ref\Log.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log\obj\Debug\netstandard2.0\Grades.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log\obj\Debug\netstandard2.0\Profile.xaml.g.cs

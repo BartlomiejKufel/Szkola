@@ -628,3 +628,4 @@ C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log.Andro
 C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\Log\Log\Log.Android\obj\Debug\120\res\drawable\man_avatar.png

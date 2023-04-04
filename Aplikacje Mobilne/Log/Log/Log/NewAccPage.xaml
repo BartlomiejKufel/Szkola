@@ -1,12 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Log.NewAccPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="nowe konto"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+             x:Class="Log.NewAccPage"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout VerticalOptions="Center">
+        <Label Text="Nowe Konto"
+               FontSize="20"/>
+        
+        <Entry Keyboard="Email"
+               x:Name="emailEntry"
+               Placeholder="email"/>
+
+        <Entry IsPassword="True"
+               x:Name="passwordEntry"
+               Placeholder="hasło"/>
+
+        <Entry IsPassword="True"
+               x:Name="confirmPasswordEntry"
+               Placeholder="powtórz hasło"/>
+
+        <Button Text="Utwórz"
+                x:Name="createAccountButton"
+                Clicked="createAccountButton_Clicked"/>
+    </StackLayout>
 </ContentPage>

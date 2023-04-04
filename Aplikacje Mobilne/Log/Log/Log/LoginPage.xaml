@@ -1,11 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Log.LoginPage">
-    <StackLayout Margin="20" VerticalOptions="Center">
-        
-        <Label Text="E-dziennik"
-               FontSize="20"/>
+             x:Class="Log.LoginPage"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout Margin="20, 0">
+
+        <StackLayout Margin="0,0,0,80">
+            <Label Text="📖" FontSize="200" HorizontalOptions="Center"/>
+            <Label Text="E-dziennik"
+                   FontSize="20"
+                   HorizontalOptions="Center" TextColor="Black"/>
+        </StackLayout>
         
         <Entry Keyboard="Email"
                Placeholder="email"
