@@ -1,0 +1,18 @@
+﻿<Page x:Class="RSPGame.GamePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RSPGame"
+      mc:Ignorable="d" 
+      Title="Papier Kamień Nożyce" Height="400" Width="700">
+
+    <Grid>
+        <StackPanel>
+        <Image Source="/rock.png" Width="100" Height="100"/>
+        <Image Source="/paper.png" Width="100" Height="100"/>
+        <Image Source="/scissors.png" Width="100" Height="100"/>
+            
+        </StackPanel>
+    </Grid>
+</Page>

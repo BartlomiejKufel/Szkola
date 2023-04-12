@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RSPGame"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        WindowStartupLocation="CenterScreen" 
+        ResizeMode="NoResize"
+        Title="Papier Kamień Nożyce" Height="450" Width="700" 
+        >
+    <Window.Background>
+        <ImageBrush ImageSource="/desk.jpg"/>
+    </Window.Background>
 
-    </Grid>
 </Window>

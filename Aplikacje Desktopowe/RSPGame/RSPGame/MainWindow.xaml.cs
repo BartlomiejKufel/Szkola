@@ -22,7 +22,13 @@ namespace RSPGame
     {
         public MainWindow()
         {
+            MainPage mp = new MainPage();
+            this.Content = mp;
             InitializeComponent();
         }
+
+
+        
+
     }
 }

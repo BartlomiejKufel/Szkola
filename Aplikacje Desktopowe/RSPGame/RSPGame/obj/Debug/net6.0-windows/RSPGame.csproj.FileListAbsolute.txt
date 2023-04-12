@@ -19,3 +19,7 @@ C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\RSPGame\RSPGame\obj
 C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\RSPGame\RSPGame\obj\Debug\net6.0-windows\RSPGame.pdb
 C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\RSPGame\RSPGame\obj\Debug\net6.0-windows\RSPGame.genruntimeconfig.cache
 C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\RSPGame\RSPGame\obj\Debug\net6.0-windows\ref\RSPGame.dll
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\RSPGame\RSPGame\obj\Debug\net6.0-windows\GamePage.g.cs
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\RSPGame\RSPGame\obj\Debug\net6.0-windows\GamePage.baml
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\RSPGame\RSPGame\obj\Debug\net6.0-windows\MainPage.g.cs
+C:\Users\joloc\Desktop\pliki zst\Szkola\Aplikacje Desktopowe\RSPGame\RSPGame\obj\Debug\net6.0-windows\MainPage.baml
