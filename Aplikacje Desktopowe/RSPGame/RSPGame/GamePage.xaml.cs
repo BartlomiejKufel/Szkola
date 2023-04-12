@@ -20,9 +20,35 @@ namespace RSPGame
     /// </summary>
     public partial class GamePage : Page
     {
+        string choice = "";
         public GamePage()
         {
             InitializeComponent();
+        }
+
+        private void Pick_Click(object sender, RoutedEventArgs e)
+        {
+            var button = (Button)sender;
+            choice = button.Name;
+
+
+            if(choice == "scissorsButton")
+            {
+                paperButton.BorderBrush = Brushes.Transparent;
+                rockButton.BorderBrush= Brushes.Transparent;
+            }
+            else if(choice == "rockButton")
+            {
+                paperButton.BorderBrush = Brushes.Transparent;
+                scissorsButton.BorderBrush= Brushes.Transparent;
+            }
+            else if(choice == "paperButton")
+            {
+                rockButton.BorderBrush = Brushes.Transparent;
+                scissorsButton.BorderBrush = Brushes.Transparent;
+            }
+
+            button.BorderBrush = (SolidColorBrush)new BrushConverter().ConvertFrom("#26bf3d"); ;
         }
     }
 }

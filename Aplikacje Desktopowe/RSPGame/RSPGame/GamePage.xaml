@@ -7,12 +7,70 @@
       mc:Ignorable="d" 
       Title="Papier Kamień Nożyce" Height="400" Width="700">
 
+    <Page.Resources>
+        <Style TargetType="Button" x:Key="choiceButton">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="4"/>
+        </Style>
+    </Page.Resources>
+    
+    
+    
     <Grid>
-        <StackPanel>
-        <Image Source="/rock.png" Width="100" Height="100"/>
-        <Image Source="/paper.png" Width="100" Height="100"/>
-        <Image Source="/scissors.png" Width="100" Height="100"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel VerticalAlignment="Center" Grid.Column="0" Grid.Row="0" >
+            <TextBlock Text="Wybierz swoją broń" 
+                       FontWeight="DemiBold"
+                       FontSize="30" HorizontalAlignment="Center"/>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <Button Style="{StaticResource choiceButton}" Click="Pick_Click"
+                    x:Name="rockButton">
+                <Image Source="/rock.png" 
+                   Width="100" Height="100"/>
+            </Button>
+
+            <Button Style="{StaticResource choiceButton}" Click="Pick_Click"
+                    x:Name="scissorsButton">
+                <Image Source="/scissors.png" 
+                   Width="100" Height="100"/>
+            </Button>
+
+
+
+            <Button Style="{StaticResource choiceButton}" Click="Pick_Click"
+                    x:Name="paperButton">
+                <Image Source="/paper.png" 
+                       Width="100" Height="100" />
+            </Button>
             
         </StackPanel>
+
+
+        <StackPanel Grid.Column="0" Grid.Row="1" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <Button Content="GRAJ"
+                    FontSize="20"
+                    Background="White"
+                    Width="200"
+                    Margin="0,0,0,80">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </StackPanel>
+    
     </Grid>
 </Page>
