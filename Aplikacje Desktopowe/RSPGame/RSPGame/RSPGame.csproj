@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="bubble.png" />
     <None Remove="desk.jpg" />
     <None Remove="paper.png" />
     <None Remove="rock.png" />
@@ -15,16 +16,19 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="desk.jpg">
+    <Resource Include="images\bubble.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="paper.png">
+    <Resource Include="images\desk.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="rock.png">
+    <Resource Include="images\paper.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="scissors.png">
+    <Resource Include="images\rock.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\scissors.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>

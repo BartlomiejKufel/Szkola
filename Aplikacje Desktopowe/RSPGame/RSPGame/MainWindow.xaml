@@ -10,7 +10,7 @@
         Title="Papier Kamień Nożyce" Height="450" Width="700" 
         >
     <Window.Background>
-        <ImageBrush ImageSource="/desk.jpg"/>
+        <ImageBrush ImageSource="/images/desk.jpg"/>
     </Window.Background>
 
 </Window>

@@ -14,9 +14,9 @@
             <Setter Property="BorderThickness" Value="4"/>
         </Style>
     </Page.Resources>
-    
-    
-    
+
+
+
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
@@ -33,17 +33,17 @@
                        FontWeight="DemiBold"
                        FontSize="30" HorizontalAlignment="Center"/>
         </StackPanel>
-        
+
         <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top">
             <Button Style="{StaticResource choiceButton}" Click="Pick_Click"
                     x:Name="rockButton">
-                <Image Source="/rock.png" 
+                <Image Source="/images/rock.png" 
                    Width="100" Height="100"/>
             </Button>
 
             <Button Style="{StaticResource choiceButton}" Click="Pick_Click"
                     x:Name="scissorsButton">
-                <Image Source="/scissors.png" 
+                <Image Source="/images/scissors.png" 
                    Width="100" Height="100"/>
             </Button>
 
@@ -51,10 +51,10 @@
 
             <Button Style="{StaticResource choiceButton}" Click="Pick_Click"
                     x:Name="paperButton">
-                <Image Source="/paper.png" 
+                <Image Source="/images/paper.png" 
                        Width="100" Height="100" />
             </Button>
-            
+
         </StackPanel>
 
 
@@ -63,14 +63,49 @@
                     FontSize="20"
                     Background="White"
                     Width="200"
-                    Margin="0,0,0,80">
+                    Margin="0,0,0,80"
+                    Click="GameStart_Click"
+                    IsEnabled="False"
+                    x:Name="gameStartButton">
                 <Button.Resources>
                     <Style TargetType="{x:Type Border}">
                         <Setter Property="CornerRadius" Value="10"/>
                     </Style>
                 </Button.Resources>
             </Button>
+
         </StackPanel>
-    
+
+        <StackPanel VerticalAlignment="Center" Grid.Column="1" Grid.Row="0" >
+            <TextBlock Text="Przeciwnik" 
+                       FontWeight="DemiBold"
+                       FontSize="30" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+
+
+        <StackPanel Grid.Column="1" Grid.Row="1" Orientation="Horizontal" Margin="50,0,50,0" x:Name="animationStackPanel" Visibility="Collapsed">
+            <Canvas>
+                <Image Source="/images/bubble.png" 
+                       Width="250" Height="150"/>
+                <TextBlock Text=". . ." 
+                           x:Name="dotsTextBlock"
+                           FontSize="30"
+                           FontWeight="Bold"
+                           Foreground="Black"
+                           Canvas.Left="110"
+                           Canvas.Top="50"/>
+            </Canvas>
+
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="1" Orientation="Horizontal" x:Name="botStackPanel"  HorizontalAlignment="Center" Visibility="Collapsed">
+            <Image Source="/images/rock.png"
+                   VerticalAlignment="Top"
+                   x:Name="botImage"
+                   Width="100" Height="100"/>
+        </StackPanel>
+        
     </Grid>
 </Page>
