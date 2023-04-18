@@ -1,0 +1,23 @@
+<%- include("./includes/header.ejs")  %>
+
+</head>
+<body>
+
+    <h1><%= pageTitle  %></h1>
+
+
+    <form action="/signup" method="post">
+        <input type="text" name="firstname" placeholder="Imię" required> 
+        <br><br>
+        <input type="email" name="email" placeholder="Twój email" required>
+        <br><br>
+        <input type="password" name="password" placeholder="Hasło" required>
+        <br><br>
+        <input type="password" name="repetedPassword" placeholder="Powtórz hasło" required>
+        <br><br>
+
+        <input type="submit" value="Utwórz konto">
+    </form>
+    <br><br>
+
+<%- include("./includes/footer.ejs") %>

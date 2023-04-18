@@ -1,16 +1,9 @@
 const express = require('express')
 
 const router = express.Router()
+const errorController = require('../controllers/error')
 
-router.use((req,res)=>{
-    res.status(404)
-    res.render("404")
-})
-
-
-router.use((err, req, res, next)=>{
-    res.status(500)
-    res.render("500")
-})
+router.use(errorController.get404)
+router.use(errorController.get500)
 
 module.exports = router

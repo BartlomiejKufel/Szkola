@@ -1,0 +1,17 @@
+<%- include("./includes/header.ejs")  %>
+
+</head>
+<body>
+    <h1>Ejs działa</h1>
+    <form action="/login" method="post">
+        <input type="email" name="email" placeholder="email">
+        <br><br>
+        <input type="password" name="password" placeholder="hasło">
+        <br> <br>
+        <input type="submit" value="Zaloguj"> 
+    </form>
+
+    <p>Nie masz konta, <a href="/singup">zarejestruj się</a></p>
+
+
+<%- include("./includes/footer.ejs") %>
