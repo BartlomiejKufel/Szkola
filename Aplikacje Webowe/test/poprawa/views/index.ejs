@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+    <link rel="stylesheet" href="/css/style.css">
+    
+</head>
+<body>
+    <h1>Moje wycieczki</h1>
+    <hr>
+
+    <form action="/add" method="post">
+        <input type="text" name="name" id="name" placeholder="nazwa odwiedzonego miejsca">
+        <br><br>
+        <textarea name="description" id="description" cols="30" rows="10" placeholder="Opis wycieczki"></textarea>
+        <br><br>
+        <input type="number" name="rate" id="rate" placeholder="ocena (1 - 10)">
+        <br><br>
+        <input type="submit" value="Dodaj wycieczkę">
+        <br><br>
+    </form>
+    
+    <hr>
+
+    <% if (!IsShow) { %>
+        <h1>Brak odwiedzonych miejsc.</h1>
+    <% }else{ %>
+        <table>
+            <tr>
+                <th style="width: 150px;">Nazwa</th>
+                <th style="width: 300px;">Opis</th>
+                <th style="width: 100px;">Ocena</th>
+                
+                <th colspan="2">Operacje</th>
+                
+            </tr>
+            <% trips.forEach(trip => { %>
+                <tr>
+                    <td><%= trip.name  %> </td>
+                    <td><%= trip.description  %></td>
+                    <td style="text-align: center;"><%= trip.rate  %></td>
+                    <td>
+                        <form action="/goEdit" method="post">
+                            <input type="hidden" name="idEdit" value="<%= trip.id %>">
+                            <input type="submit" value="Edytuj">
+                        </form>
+                    </td>
+                    <td>
+                        <form action="/delete" method="post">
+                            <input type="hidden" name="id" value="<%= trip.id %>">
+                            <input type="submit" value="Usuń">
+                        </form>
+                    </td>
+                    
+                </tr>    
+            <% }) %>
+            
+            
+
+        </table>
+
+    <% } %>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+    <link rel="stylesheet" href="/css/style.css">
+
+</head>
+<body>
+    <h1>Edycja wycieczki</h1>
+    <hr>
+
+    <form action="/edit" method="post">
+            <input type="hidden" name="id" value="<%= TripToEdit.id %>">
+            <input type="text" name="name" id="name" value="<%= TripToEdit.name %>">
+            <br><br>
+            <textarea name="description" id="description" cols="30" rows="10" ><%= TripToEdit.description %></textarea>
+            <br><br>
+            <input type="number" name="rate" id="rate" value="<%= TripToEdit.rate %>">
+            <br><br>
+        
+        <input type="submit" value="Potwierdź zmiany">
+    </form>
+</body>
+</html>
