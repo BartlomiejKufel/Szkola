@@ -1,0 +1,78 @@
+﻿<Window x:Class="EgzPr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EgzPr"
+        mc:Ignorable="d"
+        Background="LightSteelBlue"
+        Title="MainWindow" Height="350" Width="700">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="0.1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <GroupBox Header="Dane Pracownika" Margin="30,30,30,20">
+            <StackPanel Margin="10">
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Imię" Width="110" />
+                    <TextBox Width="150"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Nazwisko" Width="110"/>
+                    <TextBox Width="150"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Stanowisko" Width="110"/>
+                    <ComboBox Width="140">
+                        <ComboBoxItem>Kierownik</ComboBoxItem>
+                        <ComboBoxItem>Starszy programista</ComboBoxItem>
+                        <ComboBoxItem>Młodszy programista</ComboBoxItem>
+                        <ComboBoxItem>Tester</ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+                
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="Generowanie Hasła" Grid.Column="1" Margin="30,30,30,20">
+            <StackPanel Margin="20,10">
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Label Content="Ile znaków?" Width="110" />
+                    <TextBox Width="140" x:Name="passNumTextBox"/>
+                </StackPanel>
+                <StackPanel>
+                    <CheckBox Content="Małe i wielkie litery" Margin="0,15,0,0" x:Name="letterCheckBox" IsChecked="True"/>
+                    <CheckBox Content="Cyfry" Margin="0,15,0,0" x:Name="numberCheckBox"/>
+                    <CheckBox Content="Znaki specjalne" Margin="0,15,0,0" x:Name="specialCheckBox"/>
+                </StackPanel>
+                <StackPanel Margin="0,30,0,0">
+                    <Button Content="Generuj hasło"
+                             Width="100"
+                             Background="SteelBlue"
+                             BorderBrush="White"
+                             Foreground="White"
+                             Click="PasswordButton_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
+            <Button Content="Zatwierdź"
+                    Width="250"
+                    FontSize="13"
+                    Background="SteelBlue"
+                    BorderBrush="White"
+                    Foreground="White"         
+                    />
+        </StackPanel>
+        
+    </Grid>
+</Window>
