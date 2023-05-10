@@ -21,17 +21,17 @@
             <StackPanel Margin="10">
                 <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
                     <Label Content="Imię" Width="110" />
-                    <TextBox Width="150"/>
+                    <TextBox Width="150" x:Name="nameTextBox"/>
                 </StackPanel>
 
                 <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
                     <Label Content="Nazwisko" Width="110"/>
-                    <TextBox Width="150"/>
+                    <TextBox Width="150" x:Name="surnameTextBox"/>
                 </StackPanel>
 
                 <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
                     <Label Content="Stanowisko" Width="110"/>
-                    <ComboBox Width="140">
+                    <ComboBox Width="140" x:Name="positionComboBox">
                         <ComboBoxItem>Kierownik</ComboBoxItem>
                         <ComboBoxItem>Starszy programista</ComboBoxItem>
                         <ComboBoxItem>Młodszy programista</ComboBoxItem>
@@ -66,6 +66,7 @@
 
         <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
             <Button Content="Zatwierdź"
+                    Click="Button_Click"
                     Width="250"
                     FontSize="13"
                     Background="SteelBlue"

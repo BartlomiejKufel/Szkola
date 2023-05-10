@@ -42,57 +42,56 @@ namespace EgzPr
             bool specials = (bool)specialCheckBox.IsChecked;
 
 
-            int t = 0; 
             for (int i = 0; i < num; i++)
             {
                 //małe litery
-                if (t == 0)
-                {
-                    password += smallLettersTab[rnd.Next(0,smallLettersTab.Length)];
+                password += smallLettersTab[rnd.Next(0,smallLettersTab.Length)];
 
-                    if (!bigletters && !specials && !numbers)
-                        t = 0;
-                    else if (bigletters)
-                        t++;
-                    else if ((!bigletters && specials))
-                        t = 2;
-                    else if ((!bigletters && !specials && numbers))
-                        t = 3;
-                    
-                    continue;
-                }
+                i++;
+                if (i > num)
+                    break;
 
                 //duże litery
-                if(t == 1 && bigletters)
+                if(bigletters)
                 {
                     password += bigLettersTab[rnd.Next(0, bigLettersTab.Length)];
-                    t++;
-                    continue;
+                    i++;
+                    if (i > num)
+                        break;
                 }
 
                 //znaki specjalne
-                if (t == 2 && specials)
+                if(specials)
                 {
                     password += specialsTab[rnd.Next(0, specialsTab.Length)];
-                    t++;
-                    continue;
+                    i++;
+                    if (i > num)
+                        break;
 
                 }
 
                 //liczny
-                if (t == 3 && numbers)
+                if (numbers)
                 {
                     password += numbersTab[rnd.Next(0, numbersTab.Length)];
-                    t = 0;
-                    continue;
+                    i++;
+                    if (i > num)
+                        break;
 
                 }
-
-                t = 0;
 
             }
 
             MessageBox.Show($"{password}");
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string name = nameTextBox.Text;
+            string surname = surnameTextBox.Text;
+            string position = positionComboBox.Text;
+            
+            MessageBox.Show($"Dane pracownika: {name} {surname}, {position}, Hasło: {password}");
         }
     }
 }
