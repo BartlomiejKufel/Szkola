@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FlyoutDemo.AboutPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="O mnie"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Aplikacja wykorzystująca szablony Flyout" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

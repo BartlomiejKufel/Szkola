@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kHX1yEc5HlkgMvqGLbjMTIsQ0kV5fa+3WPOO0KVsnaAPpCux++Ymj/GBC2z/ayTYZCMhV/ev+Y8SFWZHuLy4aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\Szkola\\Aplikacje Mobilne\\FlyoutDemo\\FlyoutDemo\\FlyoutDemo\\FlyoutDemo.iOS\\FlyoutDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

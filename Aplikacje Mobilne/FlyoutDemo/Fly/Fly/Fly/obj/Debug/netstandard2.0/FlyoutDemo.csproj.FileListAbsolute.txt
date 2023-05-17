@@ -1,0 +1,38 @@
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\bin\Debug\netstandard2.0\FlyoutDemo.deps.json
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\bin\Debug\netstandard2.0\FlyoutDemo.dll
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\bin\Debug\netstandard2.0\FlyoutDemo.pdb
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.csproj.AssemblyReference.cache
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\AppFlyoutPage.xaml.g.cs
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\AppFlyoutPageFlyout.xaml.g.cs
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\GalleryPage.xaml.g.cs
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.AssemblyInfoInputs.cache
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.AssemblyInfo.cs
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.csproj.CoreCompileInputs.cache
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.dll
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\refint\FlyoutDemo.dll
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.pdb
+C:\Users\abarzyk\source\repos\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\ref\FlyoutDemo.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\bin\Debug\netstandard2.0\FlyoutDemo.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\bin\Debug\netstandard2.0\FlyoutDemo.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\bin\Debug\netstandard2.0\FlyoutDemo.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\AppFlyoutPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\AppFlyoutPageFlyout.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\GalleryPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\refint\FlyoutDemo.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\FlyoutDemo.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\FlyoutDemo\FlyoutDemo\FlyoutDemo\FlyoutDemo\obj\Debug\netstandard2.0\ref\FlyoutDemo.dll
