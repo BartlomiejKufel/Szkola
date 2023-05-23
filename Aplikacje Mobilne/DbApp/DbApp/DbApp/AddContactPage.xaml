@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DbApp.AddContactPage">
+    <StackLayout VerticalOptions="Center" Margin="30,0">
+        <Label Text="Email"/>
+        <Entry x:Name="emailEntry" Keyboard="Email"/>
+
+        <Label Text="Imię i nazwisko"/>
+        <Entry x:Name="nameEntry" Keyboard="Text"/>
+
+        <Button x:Name="add" Text="Dodaj kontakt" Clicked="add_Clicked" />
+    </StackLayout>
+</ContentPage>

@@ -13,3 +13,4 @@ C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp
 C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\refint\DbApp.dll
 C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.pdb
 C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\ref\DbApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\AddContactPage.xaml.g.cs
