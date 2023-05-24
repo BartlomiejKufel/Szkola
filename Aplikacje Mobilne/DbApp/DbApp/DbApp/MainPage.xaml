@@ -1,44 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="DbApp.MainPage">
+             x:Class="DbApp.MainPage"
+             >
 
+    <!--Style lokalne -->
     <ContentPage.Resources>
-
         <Style TargetType="Label" x:Key="headerLabel">
-            <Setter Property="FontSize" Value="26"/>
-            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="FontSize" Value="26" />
+            <Setter Property="TextColor" Value="Black" />
         </Style>
     </ContentPage.Resources>
-
+    
+    <!--Przyciski na pasku-->
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Nowy" 
-                     x:Name="addToolBarIteam"
-                     Clicked="AddToolBarIteam_Clicked"/>
+        <ToolbarItem Text="Nowy"
+                     IconImageSource="add.png"                     
+                     Clicked="addToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
     
+    <!--Zawartość strony-->
     <StackLayout>
         <Frame BackgroundColor="{StaticResource mainColor}" Padding="24" CornerRadius="0">
             <Label Text="Kontakty" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-
         <ListView x:Name="contactsListView"
-                  HasUnevenRows="True"
-                  IsPullToRefreshEnabled="True"
-                  Refreshing="contactsListView_Refreshing">
+                  HasUnevenRows="True">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Usuń" 
+                                      CommandParameter="{Binding .}"
+                                      IsDestructive="True"
+                                      Clicked="deleteMenuItem_Clicked"/>
+                            <MenuItem Text="Edytuj"
+                                CommandParameter="{Binding .}"
+                                Clicked="editMenuItem_Clicked"
+                                />
+
+
+                        </ViewCell.ContextActions>
                         <StackLayout>
                             <Label Text="{Binding Email}" Style="{StaticResource headerLabel}"/>
-                            <Label Text="{Binding Name}"/>
+                            <Label Text="{Binding Name}" />
                         </StackLayout>
-                    </ViewCell>
+                    </ViewCell>                    
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        
-        
     </StackLayout>
 
 </ContentPage>

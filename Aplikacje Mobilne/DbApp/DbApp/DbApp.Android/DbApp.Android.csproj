@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{535C5684-CD67-41B7-BDF3-F4C04012127A}</ProjectGuid>
+    <ProjectGuid>{E64DAC3C-887A-4835-B19C-ACD0F571445C}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
     <OutputType>Library</OutputType>
@@ -87,11 +87,11 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\drawable\" />
+    <AndroidResource Include="Resources\drawable\add.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DbApp\DbApp.csproj">
-      <Project>{F11E4AD2-97C4-4683-9C3C-C2AC90997537}</Project>
+      <Project>{3DA415EE-1EE5-42F8-BA4F-BF7039BF5E1F}</Project>
       <Name>DbApp</Name>
     </ProjectReference>
   </ItemGroup>

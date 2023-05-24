@@ -1,5 +1,4 @@
 ﻿using DbApp.Models;
-using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +7,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using SQLite;
 
 namespace DbApp
 {
@@ -23,15 +23,15 @@ namespace DbApp
         {
             var email = emailEntry.Text;
             var name = nameEntry.Text;
-            Contact newContact = new Contact(){ Email=email, Name=name};
+            Contact newContact = new Contact() { Email = email, Name = name };
 
-            using(var connection = new SQLiteConnection(App.GetDbPath()))
-            {
-                connection.CreateTable<Contact>();
-                connection.Insert(newContact);
-            }
-
-            await Navigation.PopAsync();
+            // zapis do bazy
+            var connection = new SQLiteAsyncConnection(App.GetDbPath());
+            await connection.CreateTableAsync<Contact>();
+            await connection.InsertAsync(newContact);
+            await connection.CloseAsync();
+            
+            await Navigation.PopModalAsync();
         }
     }
 }

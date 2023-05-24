@@ -10,18 +10,17 @@ namespace DbApp
         {
             InitializeComponent();
 
-            MainPage =new NavigationPage( new MainPage());
+            MainPage = new NavigationPage ( new MainPage());
         }
 
         public static string GetDbPath()
         {
             var myDocuments = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             var dbName = "contacts.db";
-            var myDbPath = System.IO.Path.Combine(myDocuments, dbName);
-            return myDbPath;
+            var dbPath = System.IO.Path.Combine (myDocuments, dbName);
+            return dbPath; 
+
         }
-
-
 
         protected override void OnStart()
         {
