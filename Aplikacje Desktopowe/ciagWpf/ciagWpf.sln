@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ciagWpf", "ciagWpf\ciagWpf.csproj", "{CF15AE50-7667-4BA9-846A-7B0ADACE2E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF15AE50-7667-4BA9-846A-7B0ADACE2E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF15AE50-7667-4BA9-846A-7B0ADACE2E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF15AE50-7667-4BA9-846A-7B0ADACE2E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF15AE50-7667-4BA9-846A-7B0ADACE2E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40305697-C316-4BAB-9E11-7BDAAEAED4DA}
+	EndGlobalSection
+EndGlobal
