@@ -1,0 +1,15 @@
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\bin\Debug\net6.0\CiagCon.exe
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\bin\Debug\net6.0\CiagCon.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\bin\Debug\net6.0\CiagCon.runtimeconfig.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\bin\Debug\net6.0\CiagCon.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\bin\Debug\net6.0\CiagCon.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\CiagCon.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\CiagCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\CiagCon.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\CiagCon.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\CiagCon.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\CiagCon.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\refint\CiagCon.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\CiagCon.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\CiagCon.genruntimeconfig.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Desktopowe\CiagCon\CiagCon\obj\Debug\net6.0\ref\CiagCon.dll
