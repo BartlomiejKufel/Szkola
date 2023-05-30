@@ -65,5 +65,34 @@ namespace DbApp
 
             await readDatabase();
         }
+
+        
+
+        private async void emailSearchBar_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            SearchBar searchBar = sender as SearchBar;
+            var searchEmail = searchBar.Text;
+            if (searchEmail != "")
+            {
+                List<Contact> contacts = new List<Contact>();
+                var connection = new SQLiteAsyncConnection(App.GetDbPath());
+
+                await connection.CreateTableAsync<Contact>();
+
+                contacts = await connection.Table<Contact>().ToListAsync();
+
+                await connection.CloseAsync();
+
+                List<Contact> filteredContacts = new List<Contact>();
+
+                filteredContacts = contacts.Where(contact => contact.Email.StartsWith(searchEmail)).ToList();
+
+                contactsListView.ItemsSource = filteredContacts;
+            }
+            else
+            {
+                await readDatabase();
+            }
+        }
     }
 }

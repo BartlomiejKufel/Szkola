@@ -30,3 +30,19 @@ C:\Users\abarzyk\source\repos\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.d
 C:\Users\abarzyk\source\repos\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\refint\DbApp.dll
 C:\Users\abarzyk\source\repos\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.pdb
 C:\Users\abarzyk\source\repos\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\ref\DbApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\bin\Debug\netstandard2.0\DbApp.deps.json
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\bin\Debug\netstandard2.0\DbApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\bin\Debug\netstandard2.0\DbApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.csproj.AssemblyReference.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\AddContactPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.AssemblyInfoInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.AssemblyInfo.cs
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.csproj.CoreCompileInputs.cache
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\refint\DbApp.dll
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\DbApp.pdb
+C:\Users\kufel.bartlomiej.ptb\Desktop\Szkola\Aplikacje Mobilne\DbApp\DbApp\DbApp\obj\Debug\netstandard2.0\ref\DbApp.dll
