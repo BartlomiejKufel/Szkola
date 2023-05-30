@@ -3660,24 +3660,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\": {},
+    "C:\\Users\\abarzyk\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\db\\DbApp\\DbApp\\DbApp.Android\\DbApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\abarzyk\\source\\repos\\DbApp\\DbApp\\DbApp.Android\\DbApp.Android.csproj",
       "projectName": "DbApp.Android",
-      "projectPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\db\\DbApp\\DbApp\\DbApp.Android\\DbApp.Android.csproj",
-      "packagesPath": "C:\\Users\\kufel.bartlomiej.ptb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\db\\DbApp\\DbApp\\DbApp.Android\\obj\\",
+      "projectPath": "C:\\Users\\abarzyk\\source\\repos\\DbApp\\DbApp\\DbApp.Android\\DbApp.Android.csproj",
+      "packagesPath": "C:\\Users\\abarzyk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abarzyk\\source\\repos\\DbApp\\DbApp\\DbApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kufel.bartlomiej.ptb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abarzyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3691,8 +3691,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\db\\DbApp\\DbApp\\DbApp\\DbApp.csproj": {
-              "projectPath": "C:\\Users\\kufel.bartlomiej.ptb\\Desktop\\db\\DbApp\\DbApp\\DbApp\\DbApp.csproj"
+            "C:\\Users\\abarzyk\\source\\repos\\DbApp\\DbApp\\DbApp\\DbApp.csproj": {
+              "projectPath": "C:\\Users\\abarzyk\\source\\repos\\DbApp\\DbApp\\DbApp\\DbApp.csproj"
             }
           }
         }

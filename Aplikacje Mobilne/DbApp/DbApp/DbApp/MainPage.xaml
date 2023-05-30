@@ -34,12 +34,6 @@
                                       CommandParameter="{Binding .}"
                                       IsDestructive="True"
                                       Clicked="deleteMenuItem_Clicked"/>
-                            <MenuItem Text="Edytuj"
-                                CommandParameter="{Binding .}"
-                                Clicked="editMenuItem_Clicked"
-                                />
-
-
                         </ViewCell.ContextActions>
                         <StackLayout>
                             <Label Text="{Binding Email}" Style="{StaticResource headerLabel}"/>

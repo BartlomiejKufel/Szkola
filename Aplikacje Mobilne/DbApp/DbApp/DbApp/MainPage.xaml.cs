@@ -65,35 +65,5 @@ namespace DbApp
 
             await readDatabase();
         }
-
-        private async void editMenuItem_Clicked(object sender, EventArgs e)
-        {
-            var menuItem = sender as MenuItem;
-            var contactToEdit = menuItem.CommandParameter as Contact;
-
-            var confirm = await DisplayAlert("Edytowanie kontaktu", $"Czy na pewno chcesz edytować kontakt: {contactToEdit.Email}?", "Tak", "Anuluj");
-
-            if (!confirm)
-            {
-                return;
-            }
-
-            string newEmail = await DisplayPromptAsync("Edycja Emaila", $"Stary email: {contactToEdit.Email}");
-            string newName = await DisplayPromptAsync("Edycja Imienia i nazwiska", $"Stare imię i nazwisko: {contactToEdit.Name}");
-
-
-            contactToEdit.Email = newEmail;
-            contactToEdit.Name = newName;
-
-            var connection = new SQLiteAsyncConnection(App.GetDbPath());
-
-            await connection.CreateTableAsync<Contact>();
-
-            await connection.UpdateAsync(contactToEdit);
-
-            await connection.CloseAsync();
-
-            await readDatabase();
-        }
     }
 }
